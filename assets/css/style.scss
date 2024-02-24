@@ -5,3 +5,11 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.center-cropped {
+  object-fit: cover; 
+  /*object-position: center; Center the image within the element */
+  height: 270px;
+  width: 400px;
+}
+

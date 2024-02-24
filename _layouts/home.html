@@ -31,6 +31,9 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h3>
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <img class="center-cropped" src="{{ site.baseurl }}{{ post.image }}" style="border:none;" width="50%" />
+        </a>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
