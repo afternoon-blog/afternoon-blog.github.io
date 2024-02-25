@@ -10,7 +10,7 @@ excerpt: "世界和平万岁🙏"
 
 折腾了一天，终于将本博从 [touchdreams.wordpress.com](https://touchdreams.wordpress.com) 移到了 [afternoon-blog.github.io](https://afternoon-blog.github.io)。头部域名是 [afternoon.touchdreams.net](https://afternoon.touchdreams.net)。
 
-拜[GFW](https://en.wikipedia.org/wiki/Great_Firewall) 所赐，收获有四。
+拜 [GFW](https://en.wikipedia.org/wiki/Great_Firewall) 所赐，收获有四。
 
 第一，学习了
 - [jekyll](https://jekyllrb.com/)
