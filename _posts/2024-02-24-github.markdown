@@ -8,7 +8,7 @@ excerpt: "世界和平万岁🙏"
 
 <img src="/assets/GFW.webp" width="100%" />
 
-折腾了一天，终于将本博从[wordpress.com](https://touchdreams.wordpress.com)移到了[github](https://afternoon-blog.github.io)。
+折腾了一天，终于将本博从[touchdreams.wordpress.com](https://touchdreams.wordpress.com)移到了[afternoon-blog.github.io](https://afternoon-blog.github.io)。头部domain是[afternoon.touchdreams.net](https://afternoon.touchdreams.net)。
 
 拜[GFW](https://en.wikipedia.org/wiki/Great_Firewall) 所赐，收获有四。
 
