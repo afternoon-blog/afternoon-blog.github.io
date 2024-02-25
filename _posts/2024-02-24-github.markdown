@@ -1,0 +1,27 @@
+---
+layout: post
+title: "移博github"
+date: 2024-02-24
+image: "assets/GFW.webp"
+excerpt: "世界和平万岁！"
+---
+
+<img src="/assets/GFW.webp" width="100%" />
+
+折腾了一天，终于将本博从[wordpress.com](https://touchdreams.wordpress.com)移到了[github](https://afternoon-blog.github.io)。
+
+拜[GFW](https://en.wikipedia.org/wiki/Great_Firewall) 所赐，收获有四。
+
+第一，学习了
+- [jekyll](https://jekyllrb.com/)
+- [minima theme](https://github.com/jekyll/minima)
+- [github actions](https://docs.github.com/en/actions)
+- [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+
+虽然是一堆know-how，但也得以换换脑筋。
+
+第二，发现还是[我软](https://microsoft.com)厉害，Office 365, One Drive, Bing, github墙内外通行。身段灵活，值得长期[拥有](https://finance.yahoo.com/quote/msft)。
+
+第三，免了wordpress.com的月费，可以提前退休n秒。
+
+第四，世界和平万岁🙏。
