@@ -1,0 +1,15 @@
+---
+layout: post
+title: "在玩啥呢？"
+date: 2024-05-25
+image: "assets/lumi-logo.png"
+excerpt: "一个钢琴匠偶尔想玩作曲。"
+---
+
+<a href="https://yuanlin2004.github.io/lumi-blog">
+<img src="/assets/lumi-logo.png" width="100%" />
+</a>
+
+一个造钢琴的偶尔也想玩[作曲](https://yuanlin2004.github.io/lumi-blog)。
+
+
