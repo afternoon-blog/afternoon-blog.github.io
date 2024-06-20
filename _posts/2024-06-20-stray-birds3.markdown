@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《飞鸟集》选译-3：1.最好的（文字）"
+title: "《飞鸟集》选译-3：20.最好的（文字）"
 date: 2024-06-20
 image: "assets/birds.png"
 excerpt: ""
