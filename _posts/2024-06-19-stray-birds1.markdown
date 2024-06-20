@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "《飞鸟集》选译-1：1.夏鸟秋叶（文）"
+title: "《飞鸟集》选译-1：1.夏鸟秋叶（文字）"
 date: 2024-06-19
 image: "assets/birds.png"
 excerpt: ""
 ---
+
+<img src="/assets/bird-leaf.png" width="100%" />
 
 >Stray birds of summer come to my window to sing and fly away.
 And yellow leaves of autumn, which have no songs, flutter and fall there with a sigh.
@@ -23,5 +25,4 @@ And yellow leaves of autumn, which have no songs, flutter and fall there with a 
 带着叹息在风中舞过。<br>
 
 
-<img src="/assets/bird-leaf.png" width="100%" />
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《飞鸟集》选译-2：4.大地的眼泪（图）"
+title: "《飞鸟集》选译-2：4.大地的眼泪（摄影）"
 date: 2024-06-19
 image: "assets/birds.png"
 excerpt: ""
