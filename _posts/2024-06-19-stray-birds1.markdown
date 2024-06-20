@@ -17,7 +17,7 @@ And yellow leaves of autumn, which have no songs, flutter and fall there with a 
 秋叶无声落，随风叹息扬。
 
 
-夏日的鸟儿飞来窗前，<br>
+夏日的鸟儿飞来我窗前，<br>
 唱一首歌儿离开这片天。<br>
 秋天的黄叶无声飘落，<br>
 带着叹息在风中舞过。<br>
