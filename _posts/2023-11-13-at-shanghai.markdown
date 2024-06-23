@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【图】叻嗨上海 2023"
+title: "【摄影】叻嗨上海 2023"
 date: 2023-11-13
 image: "assets/cat.webp"
 excerpt: "锅贴不是油煎的饺子，生煎不是油煎的包子。"
