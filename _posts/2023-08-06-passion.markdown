@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "不会 + 喜欢"
+title: "不会 + 喜欢 (+歌）"
 date: 2023-08-06
 image: "assets/piano.jpg"
 excerpt: "有的东西先天残缺，好像后天再努力也不计。可又偏偏天生喜欢。再试试，也许还有其他的路。"
