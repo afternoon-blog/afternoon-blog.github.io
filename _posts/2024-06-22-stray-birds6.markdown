@@ -1,0 +1,17 @@
+---
+layout: post
+title: "《飞鸟集》选译-6：75. 误读天下（文字）"
+date: 2024-06-22
+image: "assets/birds.png"
+excerpt: ""
+---
+
+>We read the world wrong and say that it deceives us.
+
+我们误解了世界，却说世界欺骗了我们。
+
+
+<img src="/assets/misunderstand.jpg" width="100%" />
+
+----
+《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-21-stray-birds5 %})\] \[[下一篇]({% post_url 2024-06-22-stray-birds7 %})\] 
