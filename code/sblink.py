@@ -26,13 +26,13 @@ for file in files:
     last_line = lines[-1]
     print("last line: ", last_line)
     insert = True
-    if last_line.startswith("\[[上一篇]") or last_line.startswith("\[[下一篇]"): 
+    if last_line.startswith("《飞鸟集》选译: "): 
         insert = False
     print("insert: ", insert)
     if insert:
-        link_line = "\n"
+        link_line = "\n《飞鸟集》选译: "
     else:
-        link_line = ""
+        link_line = "《飞鸟集》选译: "
     if i>0:
         prev = get_name(files[i-1])
         link_line += "\[[上一篇]({% post_url " + prev + " %})\] "
