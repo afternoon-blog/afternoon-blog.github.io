@@ -6,7 +6,6 @@ image: "assets/birds.png"
 excerpt: ""
 ---
 
-<img src="/assets/bird-leaf.png" width="100%" />
 
 ## 原文
 >Stray birds of summer come to my window to sing and fly away.
@@ -30,6 +29,9 @@ And yellow leaves of autumn, which have no songs, flutter and fall there with a 
 秋天的黄叶无声飘落，<br>
 带着叹息在风中舞过。<br>
 
+<br>
+<br>
+<img src="/assets/bird-leaf.png" width="100%" />
 
 ## 歌曲
 
