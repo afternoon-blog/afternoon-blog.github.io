@@ -10,3 +10,5 @@ excerpt: ""
 
 <img src="/assets/teardrop.jpg" width="100%" />
 
+----
+\[[上一篇]({% post_url 2024-06-19-stray-birds1 %})\] \[[下一篇]({% post_url 2024-06-20-stray-birds3 %})\] 

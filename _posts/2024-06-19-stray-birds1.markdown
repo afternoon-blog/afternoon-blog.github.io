@@ -108,3 +108,5 @@ And yellow leaves of autumn, which have no songs, flutter and fall there with a 
 梦想在风中飞舞<br>
 希望的光芒不灭<br>
 
+----
+\[[下一篇]({% post_url 2024-06-19-stray-birds2 %})\] 
