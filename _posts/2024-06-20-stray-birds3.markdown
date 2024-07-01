@@ -9,10 +9,7 @@ excerpt: ""
 
 >I cannot choose the best. The best chooses me.
 
-最好的，可遇不可求。
-
-
-释: 一切都是命运的安排。
+我选择不了最好的。最好的选择了我。
 
 
 <img src="/assets/fork.png" width="100%" />
