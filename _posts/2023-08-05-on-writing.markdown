@@ -20,3 +20,6 @@ excerpt: "写作是一种禅定。"
 
 > Reading maketh a full man; conference a ready man; and writing an exact man.
 > - Francis Bacon, Of Studies
+
+----
+《午后》：
