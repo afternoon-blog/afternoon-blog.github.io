@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "《飞鸟集》选译-9：53. 歧视（文字）"
-date: 2024-06-23
+date: 2024-06-29
 image: "assets/birds.png"
 excerpt: ""
 ---
@@ -13,4 +13,4 @@ excerpt: ""
 <img src="/assets/glass-lamp.png" width="100%" />
 
 ----
-《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-28-stray-birds9-where %})\] 
+《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-28-stray-birds009-where %})\] \[[下一篇]({% post_url 2024-06-29-stray-birds011-strong %})\] 

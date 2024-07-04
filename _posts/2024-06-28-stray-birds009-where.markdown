@@ -54,4 +54,4 @@ excerpt: ""
 
 
 ----
-《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-23-stray-birds8 %})\] \[[下一篇]({% post_url 2024-06-29-stray-birdsa-lamps %})\] 
+《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-23-stray-birds008 %})\] \[[下一篇]({% post_url 2024-06-29-stray-birds010-lamps %})\] 
