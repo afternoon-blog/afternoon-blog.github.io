@@ -25,4 +25,4 @@ excerpt: ""
 ----
 《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-22-stray-birds006 %})\] \[[下一篇]({% post_url 2024-06-23-stray-birds008 %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-06-22-stray-birds006 %})\] \[[下一篇]({% post_url 2024-06-23-stray-birds008 %})\] 
+《午后》：

@@ -12,43 +12,42 @@ import glob
 def get_name(file):
     return os.path.basename(file).split(".")[0]
 
-def get_files():
-    files = sorted(glob.glob("../_posts/*-birds*.markdown"))
+def get_files(pattern):
+    files = sorted(glob.glob(pattern))
     return files
 
-files = get_files()
-i=0
-for file in files:
-    # read the lines from the file
-    with open(file, "r") as f:
-        lines = f.readlines()
+def process(pattern, text):
+    files = get_files(pattern)
+    i=0
+    for file in files:
+        # read the lines from the file
+        with open(file, "r") as f:
+            lines = f.readlines()
 
-    last_line = lines[-1]
-    print("last line: ", last_line)
-    insert = True
-    if last_line.startswith("《飞鸟集》选译: "): 
-        insert = False
-    print("insert: ", insert)
-    if insert:
-        link_line = "\n《飞鸟集》选译: "
-    else:
-        link_line = "《飞鸟集》选译: "
-    if i>0:
-        prev = get_name(files[i-1])
-        link_line += "\[[上一篇]({% post_url " + prev + " %})\] "
-    if i<len(files)-1:
-        next = get_name(files[i+1])
-        link_line += "\[[下一篇]({% post_url " + next + " %})\] "
-    if insert:
-        lines.append(link_line)
-    else:
-        lines[-1] = link_line
-    i += 1
+        found = False
+        j=0
+        for line in lines:
+            if line.startswith(text):
+                link_line = text
+                if i>0:
+                    prev = get_name(files[i-1])
+                    link_line += "\[[上一篇]({% post_url " + prev + " %})\] "
+                if i<len(files)-1:
+                    next = get_name(files[i+1])
+                    link_line += "\[[下一篇]({% post_url " + next + " %})\] "
+                link_line += "\n"
+                lines[j] = link_line
+                break
+            j += 1
 
-    print(link_line)
+        if j==0:
+            print(f"No {text} found in {file}")
 
-    # write the lines back to the file
-    with open(file, "w") as f:
-        f.writelines(lines)
+        i += 1
+        # write the lines back to the file
+        with open(file, "w") as f:
+            f.writelines(lines)
 
 
+process("../_posts/*-birds*.markdown", "《飞鸟集》选译: ")
+process("../_posts/*.markdown", "《午后》：")

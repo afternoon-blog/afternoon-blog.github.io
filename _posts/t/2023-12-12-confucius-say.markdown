@@ -42,4 +42,4 @@ One life, live it. 是为记。
 Stevens Creek Trail, Cuptertino, 12/2023
 
 ----
-《午后》：\[[上一篇]({% post_url 2023-11-13-at-shanghai %})\] \[[下一篇]({% post_url 2024-02-24-github %})\] 
+《午后》：

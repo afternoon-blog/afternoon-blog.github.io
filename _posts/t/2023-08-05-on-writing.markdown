@@ -22,4 +22,4 @@ excerpt: "写作是一种禅定。"
 > - Francis Bacon, Of Studies
 
 ----
-《午后》：\[[上一篇]({% post_url 2009-05-23-hello-world %})\] \[[下一篇]({% post_url 2023-08-06-passion %})\] 
+《午后》：
