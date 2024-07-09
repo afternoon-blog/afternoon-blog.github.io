@@ -6,21 +6,12 @@ image: "assets/birds.png"
 excerpt: ""
 ---
 
-<img style="float:left" src="/assets/sword.jpg" width=250 hspace=10/> 
-
 >He has made his weapons his gods.  When his weapons win he is defeated himself.
 
 他拜他的剑为神。剑赢了，他输了。
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<img style="float:left" src="/assets/sword.jpg">
 
 ----
 《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-29-stray-birds011-strong %})\] 
