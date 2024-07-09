@@ -19,6 +19,6 @@ excerpt: ""
 <img src="/assets/grass-field.jpg" width="100%" />
 
 ----
-《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-29-stray-birds010-lamps %})\] 
+《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-29-stray-birds010-lamps %})\] \[[下一篇]({% post_url 2024-07-01-stray-birds012-weapon %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-06-29-stray-birds010-lamps %})\] 
+《午后》：\[[上一篇]({% post_url 2024-06-29-stray-birds010-lamps %})\] \[[下一篇]({% post_url 2024-07-01-stray-birds012-weapon %})\] 
