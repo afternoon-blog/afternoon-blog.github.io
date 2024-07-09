@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "外译：在那里 (文字+歌曲)"
+title: "侧译《吉檀迦利》：在那里 (文字+歌曲)"
 date: 2024-06-28
 image: "assets/birds.png"
 excerpt: ""
