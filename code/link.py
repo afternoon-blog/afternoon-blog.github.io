@@ -16,7 +16,7 @@ def get_files(pattern):
     files = sorted(glob.glob(pattern))
     return files
 
-def process(pattern, text):
+def process(pattern, text, text2):
     files = get_files(pattern)
     i=0
     for file in files:
@@ -28,7 +28,7 @@ def process(pattern, text):
         j=0
         for line in lines:
             if line.startswith(text):
-                link_line = text
+                link_line = text2
                 if i>0:
                     prev = get_name(files[i-1])
                     link_line += "\[[上一篇]({% post_url " + prev + " %})\] "
@@ -49,5 +49,6 @@ def process(pattern, text):
             f.writelines(lines)
 
 
-process("../_posts/*-birds*.markdown", "《飞鸟集》选译: ")
-process("../_posts/*.markdown", "《午后》：")
+#process("../_posts/*-birds*.markdown", "《飞鸟集》选译: ", "诗歌选译：")
+process("../_posts/*-birds*.markdown", "诗歌选译：", "诗歌选译：")
+process("../_posts/*.markdown", "《午后》：", "《午后》：")

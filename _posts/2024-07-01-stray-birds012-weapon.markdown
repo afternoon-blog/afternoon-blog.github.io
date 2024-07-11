@@ -14,6 +14,6 @@ excerpt: ""
 <img style="float:left" src="/assets/sword.jpg">
 
 ----
-《飞鸟集》选译: \[[上一篇]({% post_url 2024-06-29-stray-birds011-strong %})\] 
+诗歌选译：\[[上一篇]({% post_url 2024-06-29-stray-birds011-strong %})\] 
 
 《午后》：\[[上一篇]({% post_url 2024-06-29-stray-birds011-strong %})\] 

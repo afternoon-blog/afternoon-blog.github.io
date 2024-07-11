@@ -111,6 +111,6 @@ And yellow leaves of autumn, which have no songs, flutter and fall there with a 
 希望的光芒不灭<br>
 
 ----
-《飞鸟集》选译: \[[下一篇]({% post_url 2024-06-19-stray-birds002 %})\] 
+诗歌选译：\[[下一篇]({% post_url 2024-06-19-stray-birds002 %})\] 
 
 《午后》：\[[上一篇]({% post_url 2024-05-30-toy %})\] \[[下一篇]({% post_url 2024-06-19-stray-birds002 %})\] 
