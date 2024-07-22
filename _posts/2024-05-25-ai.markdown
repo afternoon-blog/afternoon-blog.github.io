@@ -32,7 +32,7 @@ OpenAI 超级对齐团队的想法是用一个人可控的相对小的模型来�
 
 <br>
 <video width="100%" controls>
-  <source src="/assets/cj2024.m4v" type="video/mp4">
+  <source src="/assets/cj2024-720p.mp4" type="video/mp4">
 </video>
 
 ----
