@@ -16,4 +16,4 @@ excerpt: ""
 ----
 诗歌选译：\[[上一篇]({% post_url 2024-06-29-stray-birds011-strong %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-06-29-stray-birds011-strong %})\] 
+《午后》：\[[上一篇]({% post_url 2024-06-29-stray-birds011-strong %})\] \[[下一篇]({% post_url 2024-07-22-cj-movie %})\] 

@@ -2,7 +2,7 @@
 layout: post
 title: "仓颉，动起来！"
 date: 2024-07-22
-image: "assets/cj-move.jpeg"
+image: "assets/cj-move.jpg"
 excerpt: ""
 ---
 
