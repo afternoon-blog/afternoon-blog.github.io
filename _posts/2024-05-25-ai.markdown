@@ -34,6 +34,7 @@ OpenAI 超级对齐团队的想法是用一个人可控的相对小的模型来�
 <video width=360 controls>
   <source src="/assets/cj2024-720p.mp4" type="video/mp4">
 </video>
+(视频制作看[这里]({% post_url 2024-07-22-cj-movie %}))
 
 ----
 《午后》：\[[上一篇]({% post_url 2024-02-24-github %})\] \[[下一篇]({% post_url 2024-05-30-toy %})\] 

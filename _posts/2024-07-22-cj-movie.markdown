@@ -1,0 +1,37 @@
+---
+layout: post
+title: "仓颉，动起来！"
+date: 2024-07-22
+image: "assets/cj-move.jpeg"
+excerpt: ""
+---
+
+[《仓颉造字，天雨粟，鬼夜哭》]({% post_url 2024-05-25-ai %})的这张主题图片大约是在2023年11月份用Midjourney生成的。
+
+<img src="/assets/cj2.jpeg" width="360" />
+
+当时还试着用各种其他工具将图转生成视频，但效果都不好。2024年头几个月被Sora吊足了胃口。期间还试了几个炒得挺热的工具，可惜统统差强人意。六月份，快手的可灵上线了，网上反响热烈。今天一试，果不其然。
+
+往前拓展了十几秒（视频倒放），往后拓展了三十秒，加字幕，配音效。
+
+<br>
+<video width=360 controls>
+  <source src="/assets/cj2024-720p.mp4" type="video/mp4">
+</video>
+
+<br>
+<br>
+也有意想不到的。这是小孩画的我。
+
+<img src="/assets/sit.JPG" width="360" />
+
+
+我让可灵生成视频“放下腿，站起来“。
+
+<br>
+<video width=360 controls>
+  <source src="/assets/leg.MP4" type="video/mp4">
+</video>
+
+----
+《午后》：\[[上一篇]({% post_url 2024-07-01-stray-birds012-weapon %})\] 
