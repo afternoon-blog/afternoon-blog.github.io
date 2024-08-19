@@ -7,10 +7,7 @@ excerpt: ""
 ---
 
 
-
 <img src="/assets/tian-an-mem.jpg" />
-
-
 
 ----
 《午后》：\[[上一篇]({% post_url 2024-08-18-bj7 %})\] 
