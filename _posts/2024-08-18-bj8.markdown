@@ -2,7 +2,7 @@
 layout: post
 title: "北京2024 - 摄影8: '我爱北京天安门‘"
 date: 2024-08-18
-image: "/assets/tian-an-mem.jpg"
+image: "/assets/tian-an-mem-og.jpg"
 excerpt: ""
 ---
 
