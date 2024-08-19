@@ -1,0 +1,17 @@
+---
+layout: post
+title: "北京2024 - 摄影6: 龙脉"
+date: 2024-08-18
+image: "/assets/lm2.jpg"
+excerpt: ""
+---
+
+
+
+<img src="/assets/lm2.jpg" />
+
+<img src="/assets/lm1.jpg" />
+
+
+----
+《午后》：\[[上一篇]({% post_url 2024-08-18-bj5 %})\] \[[下一篇]({% post_url 2024-08-18-bj7 %})\] 

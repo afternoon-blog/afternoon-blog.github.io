@@ -1,0 +1,16 @@
+---
+layout: post
+title: "北京2024 - 摄影7: 遛鸟"
+date: 2024-08-18
+image: "/assets/bird-man.jpg"
+excerpt: ""
+---
+
+
+
+<img src="/assets/bird-man.jpg" />
+宫里的和笼里的
+
+
+----
+《午后》：\[[上一篇]({% post_url 2024-08-18-bj6 %})\] \[[下一篇]({% post_url 2024-08-18-bj8 %})\] 

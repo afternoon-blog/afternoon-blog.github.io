@@ -1,0 +1,17 @@
+---
+layout: post
+title: "北京2024 - 摄影2: 颐和园"
+date: 2024-08-18
+image: "/assets/summer_palace1.jpg"
+excerpt: ""
+---
+
+
+
+<img src="/assets/summer_palace1.jpg" />
+
+<img src="/assets/summer_palace2.jpg" />
+
+
+----
+《午后》：\[[上一篇]({% post_url 2024-08-18-bj1 %})\] \[[下一篇]({% post_url 2024-08-18-bj3 %})\] 

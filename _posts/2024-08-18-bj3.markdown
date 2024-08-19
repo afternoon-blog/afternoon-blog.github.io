@@ -1,0 +1,21 @@
+---
+layout: post
+title: "北京2024 - 摄影3: 天坛"
+date: 2024-08-18
+image: "/assets/tt1.jpg"
+excerpt: ""
+---
+
+
+
+<img src="/assets/tt1.jpg" />
+
+<img src="/assets/tt4.jpg" />
+
+<img src="/assets/tt2.jpg" />
+
+<img src="/assets/tt3.jpg" />
+
+
+----
+《午后》：\[[上一篇]({% post_url 2024-08-18-bj2 %})\] \[[下一篇]({% post_url 2024-08-18-bj4 %})\] 

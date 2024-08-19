@@ -1,0 +1,19 @@
+---
+layout: post
+title: "北京2024 - 摄影5: 护城河"
+date: 2024-08-18
+image: "/assets/the-moat1.jpg"
+excerpt: ""
+---
+
+
+
+<img src="/assets/the-moat1.jpg" />
+紫禁城的CUDA
+
+<img src="/assets/the-moat2.jpg" />
+Financial Analysts 
+
+
+----
+《午后》：\[[上一篇]({% post_url 2024-08-18-bj4 %})\] \[[下一篇]({% post_url 2024-08-18-bj6 %})\] 

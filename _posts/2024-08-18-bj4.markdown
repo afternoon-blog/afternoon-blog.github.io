@@ -1,0 +1,18 @@
+---
+layout: post
+title: "北京2024 - 摄影4: 长城"
+date: 2024-08-18
+image: "/assets/gw1.jpg"
+excerpt: ""
+---
+
+
+<img src="/assets/gw3.jpg" />
+
+<img src="/assets/gw2.jpg" />
+
+<img src="/assets/gw4.jpg" />
+
+
+----
+《午后》：\[[上一篇]({% post_url 2024-08-18-bj3 %})\] \[[下一篇]({% post_url 2024-08-18-bj5 %})\] 

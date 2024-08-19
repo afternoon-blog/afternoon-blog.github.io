@@ -1,0 +1,17 @@
+---
+layout: post
+title: "北京2024 - 摄影1: 一一风菏举"
+date: 2024-08-18
+image: "/assets/lotus2.jpg"
+excerpt: ""
+---
+
+
+
+<img src="/assets/lotus2.jpg" />
+
+<img src="/assets/lotus1.jpg" />
+
+
+----
+《午后》：\[[上一篇]({% post_url 2024-07-22-cj-movie %})\] \[[下一篇]({% post_url 2024-08-18-bj2 %})\] 
