@@ -2,7 +2,7 @@
 layout: post
 title: "《飞鸟集》选译-12：45. 输赢（文字）"
 date: 2024-07-01
-image: "assets/birds.png"
+image: "assets/birds.jpg"
 excerpt: ""
 ---
 

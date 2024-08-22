@@ -2,7 +2,7 @@
 layout: post
 title: "《吉檀迦利》选译-1：35. 在那里 (文字+歌曲)"
 date: 2024-06-28
-image: "assets/birds.png"
+image: "assets/birds.jpg"
 excerpt: ""
 ---
 

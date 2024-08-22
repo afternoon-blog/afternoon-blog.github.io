@@ -2,7 +2,7 @@
 layout: post
 title: "《飞鸟集》选译-1：1.夏鸟秋叶（文字+歌曲）"
 date: 2024-06-19
-image: "assets/birds.png"
+image: "assets/birds.jpg"
 excerpt: ""
 ---
 
@@ -31,7 +31,7 @@ And yellow leaves of autumn, which have no songs, flutter and fall there with a 
 
 <br>
 <br>
-<img src="/assets/bird-leaf.png" width="100%" />
+<img src="/assets/bird-leaf.jpg" width="100%" />
 
 ## 歌曲
 

@@ -2,7 +2,7 @@
 layout: post
 title: "《飞鸟集》选译-10：49. 感恩（文字）"
 date: 2024-06-29
-image: "assets/birds.png"
+image: "assets/birds.jpg"
 excerpt: ""
 ---
 
