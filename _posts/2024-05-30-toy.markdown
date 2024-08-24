@@ -2,7 +2,7 @@
 layout: post
 title: "在玩啥呢？"
 date: 2024-05-25
-image: "assets/lumi-logo.png"
+image: "assets/lumi-logo.jpg"
 excerpt: "一个钢琴匠偶尔想玩作曲。"
 ---
 
