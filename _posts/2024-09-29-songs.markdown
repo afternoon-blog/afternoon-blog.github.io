@@ -1,0 +1,45 @@
+---
+layout: post
+title: "午后歌集"
+date: 2024-09-29
+image: "assets/songs.jpg"
+excerpt: "用诗意和美保护每个人的柔软和敏感。"
+---
+
+<img src="/assets/songs.jpg" width="100%" />
+
+#### [夏鸟秋叶]({% post_url 2024-06-19-stray-birds001 %}) (2024/06)
+轻柔版
+<audio controls>
+  <source src="/assets/夏鸟秋叶-soft.mp3" type="audio/mpeg">
+</audio>
+
+摇滚版
+<audio controls>
+  <source src="/assets/夏鸟秋叶-rock.mp3" type="audio/mpeg">
+</audio>
+
+#### [其他的路]({% post_url 2023-08-06-passion %}) (2024/06)
+<audio controls>
+  <source src="/assets/喜欢.mp3" type="audio/mpeg">
+</audio>
+
+#### [远方2023]({% post_url 2023-08-11-far %}) (2024/06)
+<audio controls>
+  <source src="/assets/远方2023.mp3" type="audio/mpeg">
+</audio>
+
+#### [在那里]({% post_url 2024-06-28-stray-birds009-where %}) (2024/06)
+清澈版
+<audio controls>
+  <source src="/assets/where.mp3" type="audio/mpeg">
+</audio>
+
+摇滚版
+<audio controls>
+  <source src="/assets/where-rock.mp3" type="audio/mpeg">
+</audio>
+
+<br>
+----
+《午后》：\[[上一篇]({% post_url 2024-09-17-stray-birds-013-moon %})\] 

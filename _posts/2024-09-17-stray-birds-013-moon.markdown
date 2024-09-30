@@ -26,4 +26,4 @@ excerpt: ""
 ----
 诗歌选译：\[[上一篇]({% post_url 2024-07-01-stray-birds012-weapon %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-08-20-headache %})\] 
+《午后》：\[[上一篇]({% post_url 2024-08-20-headache %})\] \[[下一篇]({% post_url 2024-09-29-songs %})\] 
