@@ -3,7 +3,7 @@ layout: post
 title: "午后歌集"
 date: 2024-09-29
 image: "assets/songs.jpg"
-excerpt: "用诗意和美保护每个人的柔软和敏感。"
+excerpt: "唱啊，以我喜欢的模样。"
 ---
 
 <img src="/assets/songs.jpg" width="100%" />
