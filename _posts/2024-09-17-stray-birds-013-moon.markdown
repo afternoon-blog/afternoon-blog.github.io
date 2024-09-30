@@ -12,6 +12,7 @@ excerpt: ""
 >Tonight there is a stir among the palm leaves, a swell in the sea. Full Moon, like the heart-throb of the world. From what unknown sky hast thou carried in thy silence the aching secret of love?
 
 <br>
+<br>
 椰影婆娑夜，<br>
 潮声轻叩月。<br>
 婵娟有意，<br>
@@ -22,6 +23,19 @@ excerpt: ""
 相思一缕，<br>
 落人间随风几处。<br>
 
+<br>
+<br>
+月圆的夜，<br>
+婆娑的是椰影，<br>
+微涌的是海潮，<br>
+像我的心。<br>
+<br>
+寂静中，<br>
+从天涯哪里，<br>
+带来的痛？<br>
+是我的爱。<br>
+    
+<br>
 <br>
 ----
 诗歌选译：\[[上一篇]({% post_url 2024-07-01-stray-birds012-weapon %})\] 
