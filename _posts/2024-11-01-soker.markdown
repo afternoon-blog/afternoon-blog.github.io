@@ -218,7 +218,7 @@ class Player extends Phaser.Physics.Arcade.Sprite {
         }
         // Bottom boundary
         if (this.body.y > this.scene.fieldY + this.scene.fieldHeight - margin) {
-            this.setY(this.scene.fieldY + this.scene.fieldHeight - 2*margin);
+            this.setY(this.scene.fieldY + this.scene.fieldHeight - 3*margin);
             this.body.velocity.y = -Math.abs(this.body.velocity.y * bounce);
         }
     }
