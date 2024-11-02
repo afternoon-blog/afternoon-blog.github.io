@@ -228,7 +228,7 @@ class Player extends Phaser.Physics.Arcade.Sprite {
         if (this.team === 1 && ball.x < 600 || this.team === 2 && ball.x > 200) {
             this.moveTowardsBall(ball);
         } else {
-            this.moveToPosition(this.team === 1 ? 400 : 600, Phaser.Math.Between(150, 450));
+            this.moveToPosition(this.team === 1 ? 200 : 600, Phaser.Math.Between(150, 450));
         }
     }
 
