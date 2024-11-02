@@ -1,0 +1,667 @@
+---
+layout: post
+title: "AI 小足球"
+date: 2024-11-01
+image: "assets/soker.jpg"
+excerpt: ""
+---
+
+经过精心调试后, 一个由简单规则组成的系统可以完成复杂的任务。
+
+
+<script src="https://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.min.js"></script>
+<div id="game-container"></div>
+
+<script type="module">
+// Copyright: 2024 Yuan Lin
+// License: MIT
+// Description: A simple soccer game with AI players and basic physics
+
+const labeloffset = -25;
+const labelfontsize = '12px';
+let c = 0;
+class Player extends Phaser.Physics.Arcade.Sprite {
+    constructor(scene, x, y, role, team, sprite, id) {
+        super(scene, x, y, sprite);
+        this.scene = scene;
+        this.role = role;
+        this.team = team;
+        this.step = 0;
+        
+        scene.add.existing(this);
+        scene.physics.add.existing(this);
+        this.speed = 40; 
+
+        this.setSize(16, 16);
+        this.setOffset(8, 48);
+
+        const frame_rate = 20
+        const frame_rate_idle = 1
+        const anims = this.anims;
+        let idkey = "player" + id;
+        anims.create({
+            key: "idle-left",
+            frames: anims.generateFrameNames(idkey, {
+                prefix: "idle_left.",
+                start: 0,
+                end: 1,
+                zeroPad: 0,
+            }),
+            frameRate: frame_rate_idle,
+            repeat: -1,
+        });
+        anims.create({
+            key: "idle-right",
+            frames: anims.generateFrameNames(idkey, {
+                prefix: "idle_right.",
+                start: 0,
+                end: 1,
+                zeroPad: 0,
+            }),
+            frameRate: frame_rate_idle,
+            repeat: -1,
+        });
+        anims.create({
+            key: "idle-up",
+            frames: anims.generateFrameNames(idkey, {
+                prefix: "idle_up.",
+                start: 0,
+                end: 1,
+                zeroPad: 0,
+            }),
+            frameRate: frame_rate_idle,
+            repeat: -1,
+        });
+        anims.create({
+            key: "idle-down",
+            frames: anims.generateFrameNames(idkey, {
+                prefix: "idle_down.",
+                start: 0,
+                end: 1,
+                zeroPad: 0,
+            }),
+            frameRate: frame_rate_idle,
+            repeat: -1,
+        });
+        anims.create({
+            key: "walk-left",
+            frames: anims.generateFrameNames(idkey, {
+                prefix: "walk_left.",
+                start: 0,
+                end: 8,
+                zeroPad: 0,
+            }),
+            frameRate: frame_rate,
+            repeat: -1,
+        });
+        anims.create({
+            key: "walk-right",
+            frames: anims.generateFrameNames(idkey, {
+                prefix: "walk_right.",
+                start: 2,
+                end: 8,
+                zeroPad: 0,
+            }),
+            frameRate: frame_rate,
+            repeat: -1,
+        });
+        anims.create({
+            key: "walk-down",
+            frames: anims.generateFrameNames(idkey, {
+                prefix: "walk_down.",
+                start: 0,
+                end: 8,
+                zeroPad: 0,
+            }),
+            frameRate: frame_rate,
+            repeat: -1,
+        });
+        anims.create({
+            key: "walk-up",
+            frames: anims.generateFrameNames(idkey, {
+                prefix: "walk_up.",
+                start: 0,
+                end: 8,
+                zeroPad: 0,
+            }),
+            frameRate: frame_rate,
+            repeat: -1,
+        });
+
+        this.setCollideWorldBounds(false);
+        this.setBounce(0.5);
+
+        let roletext;
+        if (role === 'striker') {
+            roletext = '前';
+        }
+        else if (role === 'midfielder') {
+            roletext = '中';
+        }
+        else {
+            roletext = '守';
+        }
+        this.roleLabel = scene.add.text(x, y + labeloffset, roletext, {
+            fontSize: labelfontsize,
+            fill: team === 1 ? '#ff0000' : '#0000ff',
+            backgroundColor: '#ffffff',
+            padding: { x: 3, y: 1 }
+        });
+        this.roleLabel.setOrigin(0.5, 0.5); 
+    }
+
+    update(ball) {
+        this.roleLabel.setPosition(this.x, this.y + labeloffset);
+        
+        this.checkFieldBounds();
+
+        switch(this.role) {
+            case 'striker':
+                this.strikerBehavior(ball);
+                break;
+            case 'midfielder':
+                this.midfielderBehavior(ball);
+                break;
+            case 'defender':
+                this.defenderBehavior(ball);
+                break;
+        }
+        if (this.role == 'defender') {
+            const defX = this.team === 1 ? 100 : 700;
+            let xdiff = Math.abs(this.body.x + this.body.width/2 - defX);
+            if (this.team == 1 && xdiff <10) {
+                this.anims.play("idle-right", true);
+                return;
+            }
+            else if (this.team == 2 && xdiff <10) { 
+                this.anims.play("idle-left", true);
+                return;
+            }
+        }
+        if (Math.abs(this.body.velocity.x) >= (Math.abs(this.body.velocity.y)-2.0)) {
+            if (this.body.velocity.x < 0) {
+                this.anims.play("walk-left", true);
+            }
+            else {
+                this.anims.play("walk-right", true);
+            }
+        }
+        else {
+            if (this.body.velocity.y < 0) {
+                this.anims.play("walk-up", true);
+            }
+            else {
+                this.anims.play("walk-down", true);
+            }
+        }
+
+    }
+
+    checkFieldBounds() {
+        const bounce = 0.5;
+        const margin = 8; // Half of player's physics body width/height
+
+        // Left boundary
+        if (this.body.x < this.scene.fieldX + margin) {
+            this.setX(this.scene.fieldX + 2*margin);
+            this.body.velocity.x = Math.abs(this.body.velocity.x * bounce);
+        }
+        // Right boundary
+        if (this.body.x > this.scene.fieldX + this.scene.fieldWidth - margin) {
+            this.setX(this.scene.fieldX + this.scene.fieldWidth - 2*margin);
+            this.body.velocity.x = -Math.abs(this.body.velocity.x * bounce);
+        }
+        // Top boundary
+        if (this.body.y < this.scene.fieldY + margin) {
+            this.setY(this.scene.fieldY + 2*margin);
+            this.body.velocity.y = Math.abs(this.body.velocity.y * bounce);
+        }
+        // Bottom boundary
+        if (this.body.y > this.scene.fieldY + this.scene.fieldHeight - margin) {
+            this.setY(this.scene.fieldY + this.scene.fieldHeight - 2*margin);
+            this.body.velocity.y = -Math.abs(this.body.velocity.y * bounce);
+        }
+    }
+
+    midfielderBehavior(ball) {
+        if (this.team === 1 && ball.x < 600 || this.team === 2 && ball.x > 200) {
+            this.moveTowardsBall(ball);
+        } else {
+            this.moveToPosition(this.team === 1 ? 400 : 600, Phaser.Math.Between(150, 450));
+        }
+    }
+
+    strikerBehavior(ball) {
+        const midX = this.team === 1 ? 300 : 500;
+        if (Phaser.Math.Distance.Between(this.x, this.y, ball.x, ball.y) < 200) {
+            this.moveTowardsBall(ball);
+        } else {
+            this.moveToPosition(midX, Phaser.Math.Between(150, 450));
+        }
+    }
+
+    defenderBehavior(ball) {
+        const defX = this.team === 1 ? 100 : 700;
+        if ((this.team === 1 && ball.x < 300) || (this.team === 2 && ball.x > 500)) {
+            this.moveTowardsBall(ball);
+        } else {
+            this.moveToPosition(defX, 300);
+        }
+    }
+
+    moveTowardsBall(ball) {
+        const distanceToBall = Phaser.Math.Distance.Between(this.body.x+this.body.width/2, this.body.y + this.body.height/2, ball.x, ball.y);
+        if (distanceToBall < 15) {
+            ball.setLastTouch(this);
+            // Calculate kick direction based on tactical decision
+            const kickDirection = this.getKickDirection(ball);
+            const kickPower = 250; // Reduced from 100
+            
+            ball.setVelocity(
+                Math.cos(kickDirection) * kickPower,
+                Math.sin(kickDirection) * kickPower
+            );
+            // Back off slightly after kicking
+            this.setVelocity(
+                Math.cos(kickDirection) * this.speed * 0.3, 
+                Math.sin(kickDirection) * this.speed * 0.3
+            );
+        } else {
+            // Move towards ball normally
+            if (this.step <= 0) {
+                const angle = Phaser.Math.Angle.Between(this.body.x+this.body.width/2, this.body.y+this.body.height/2, ball.x, ball.y);
+                const speed = this.speed; 
+                this.setVelocity( Math.cos(angle) * speed, Math.sin(angle) * speed);
+                this.step = Phaser.Math.Between(50, 200);
+            }
+            else
+                this.step = this.step - 1;
+        }
+    }
+
+    swapPositionWithBall(ball) {
+        const oldX= ball.x;
+        const oldY= ball.y;
+
+        let dir = Math.sign(ball.body.velocity.y);
+        ball.setPosition(ball.x, ball.y - 32*dir);
+        ball.setVelocity(ball.body.velocity.x, -ball.body.velocity.y);
+    }
+
+    getKickDirection(ball) {
+        const swap_dist = 40;
+        const goalX = this.team === 1 ? 800 : 0;
+        const goalY = 300;
+        
+        // Add random variation to goal target to make it more realistic
+        const targetY = goalY + Phaser.Math.Between(-50, 50);
+        
+        // Check if path to goal is blocked
+        const blocked = this.isPathBlocked(ball, goalX, goalY);
+        
+        if (blocked) {
+            if ((Math.random() < 0.10) || 
+                (ball.y < (this.scene.fieldY + swap_dist) && ball.body.velocity.y < 0) || 
+                (ball.y > (this.scene.fieldY + this.scene.fieldHeight - swap_dist) && ball.body.velocity.y > 0)) {
+                this.swapPositionWithBall(ball);
+                // Return a random direction after switching
+                return Math.random() * Math.PI * 2;
+            }
+
+            // If not switching, look for alternative directions
+            const angles = [
+                0, Math.PI/4, -Math.PI/4,  // Forward variations
+                Math.PI/2, -Math.PI/2,     // Sideways
+                Math.PI * 3/4, -Math.PI * 3/4  // Backward variations
+            ];
+            
+            // Adjust angles based on team direction
+            if (this.team === 2) {
+                angles.forEach((angle, i) => angles[i] = Math.PI + angle);
+            }
+            
+            // Find first unblocked direction
+            for (let angle of angles) {
+                const targetX = ball.x + Math.cos(angle) * 100;
+                const targetY = ball.y + Math.sin(angle) * 100;
+                if (!this.isPathBlocked(ball, targetX, targetY)) {
+                    return angle;
+                }
+            }
+        }
+        
+        // Default: kick towards goal
+        let a = Phaser.Math.Angle.Between(ball.x, ball.y, goalX, goalY);
+        return a;
+    }
+
+    isPathBlocked(ball, targetX, targetY) {
+        const angle = Phaser.Math.Angle.Between(ball.x, ball.y, targetX, targetY);
+        const distance = 100;  // Reduced
+        
+        // Check for opposing players in the path
+        const opponents = this.team === 1 ? this.scene.team2 : this.scene.team1;
+        for (let opponent of opponents) {
+            const opponentAngle = Phaser.Math.Angle.Between(ball.x, ball.y, opponent.x, opponent.y);
+            const opponentDist = Phaser.Math.Distance.Between(ball.x, ball.y, opponent.x, opponent.y);
+            
+            // Check if opponent is in the path
+            if (opponentDist < distance && 
+                Math.abs(Phaser.Math.Angle.Wrap(angle - opponentAngle)) < 0.7) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    moveToPosition(x, y) {
+        const angle = Phaser.Math.Angle.Between(this.x, this.y, x, y);
+        const distance = Phaser.Math.Distance.Between(this.x, this.y, x, y);
+        
+        if (distance > 10) {
+            this.setVelocity(
+                Math.cos(angle) * this.speed,
+                Math.sin(angle) * this.speed
+            );
+        } else {
+            this.setVelocity(0, 0);
+        }
+    }
+}
+
+class Ball extends Phaser.Physics.Arcade.Sprite {
+    constructor(scene, x, y) {
+        super(scene, x, y, 'ball');
+        this.scene = scene;
+        
+        scene.add.existing(this);
+        scene.physics.add.existing(this);
+
+        // Set the physical size of the ball to be 16x16 
+        this.setSize(16, 16);
+        this.setCollideWorldBounds(false);  // Change to false to allow ball to go out
+        this.lastTouchedBy = null;  // Track last player to touch ball
+    }
+
+    setLastTouch(player) {
+        this.lastTouchedBy = player;
+        return;
+    }
+
+    update() {
+        if (this.paused) {
+            return;
+        }
+
+        // Check if ball is outside field boundaries
+        if (this.y < this.scene.fieldY || this.y > this.scene.fieldY + this.scene.fieldHeight) {
+            if (this.lastTouchedBy) {
+                const scoringTeam = this.lastTouchedBy.team === 1 ? 2 : 1;
+                this.scene.handleGoal(scoringTeam, 1);
+            }
+            return;
+        }
+
+        if (this.x <= this.scene.fieldX || this.x >= this.scene.fieldX + this.scene.fieldWidth) {
+            let scoringTeam;
+            if (this.y >= this.scene.fieldY + 128 && this.y <= this.scene.fieldY + 256) 
+                scoringTeam = this.x < this.scene.fieldX ? 2 : 1;
+            else
+                scoringTeam = this.lastTouchedBy.team === 1 ? 2 : 1;
+            this.scene.handleGoal(scoringTeam, 3); 
+            return;
+        }
+
+        // Apply additional drag when ball is moving
+        const dragFactor = 0.90;  // Increased drag from 0.96
+        this.setVelocity(
+            this.body.velocity.x * dragFactor,
+            this.body.velocity.y * dragFactor
+        );
+    }
+}
+
+class MainScene extends Phaser.Scene {
+    constructor() {
+        super({ key: 'MainScene' });
+        this.score = {
+            team1: 0,
+            team2: 0
+        };
+    }
+
+    preload() {
+        this.load.image('redPlayer', '/assets/soker/redPlayer.png');
+        this.load.image('bluePlayer', '/assets/soker/bluePlayer.png');
+        this.load.image('ball', '/assets/soker/ball.png');
+        this.load.image('field', '/assets/soker/field.png');
+        for (let i = 0; i < 6; i++) {
+            let player_png = "Player" + i + ".png";
+            let key = "player" + i;
+            this.load.atlas(key, "/assets/soker/players/" + player_png, "/assets/soker/players/char.json");
+        }
+    }
+
+    getRandomPosition(team, role) {
+        const minY = this.fieldY + 50;  // Add margin from field top
+        const maxY = this.fieldY + this.fieldHeight - 50;  // Subtract margin from field bottom
+        let x;
+
+        if (team === 1) { // Left team
+            if (role === 'striker') {
+                x = Phaser.Math.Between(this.fieldX + 200, this.fieldX + 300);
+            } else if (role === 'midfielder') {
+                x = Phaser.Math.Between(this.fieldX + 150, this.fieldX + 200);
+            } else {
+                x = this.fieldX + 100;
+            }
+        } else { // Right team
+            if (role === 'striker') {
+                x = Phaser.Math.Between(this.fieldX + this.fieldWidth - 300, this.fieldX + this.fieldWidth - 200);
+            } else if (role === 'midfielder') {
+                x = Phaser.Math.Between(this.fieldX + this.fieldWidth - 200, this.fieldX + this.fieldWidth - 150);
+            } else {
+                x = this.fieldX + this.fieldWidth - 100;
+            }
+        }
+
+        return {
+            x: x,
+            y: Phaser.Math.Between(minY, maxY)
+        };
+    }
+
+    create() {
+        // Define field dimensions and position
+        this.fieldWidth = 672;
+        this.fieldHeight = 384;
+        this.fieldX = (800 - this.fieldWidth) / 2;  // 64
+        this.fieldY = (600 - this.fieldHeight) / 2;  // 108
+
+        const goalheight = 128;
+
+        this.paused = false;
+
+        // Add soccer field centered
+        const field = this.add.image(400, 300, 'field');
+
+        // Add vertical lines
+        for (let x = 100; x <= 700; x += 100) {
+            const line = this.add.line(0, 0, x, 0, x, 600, 0x333333);
+            line.setLineWidth(1);
+            line.setAlpha(0.3); // Make lines semi-transparent
+        }
+
+        // set background to be green
+        this.cameras.main.setBackgroundColor(0x8ebb3d);
+
+        // Add scoreboard
+        this.scoreText = this.add.text(300, 20, '', {
+            fontSize: '32px',
+            fill: '#ffffff',
+            backgroundColor: '#c57700',
+            padding: { x: 10, y: 5 }
+        });
+        this.updateScoreDisplay();
+
+        // Create ball
+        this.ball = new Ball(this, 400, 300);
+
+        // Create teams
+        this.team1 = [];
+        this.team2 = [];
+
+        // Team 1 (left side)
+        const pos1Striker = this.getRandomPosition(1, 'striker');
+        const pos1Mid = this.getRandomPosition(1, 'midfielder');
+        this.team1.push(new Player(this, pos1Striker.x, pos1Striker.y, 'striker', 1, 'redPlayer', 0));
+        this.team1.push(new Player(this, pos1Mid.x, pos1Mid.y, 'midfielder', 1, 'redPlayer', 1));
+        this.team1.push(new Player(this, 100, 340, 'defender', 1, 'redPlayer', 2));
+
+        // Team 2 (right side)
+        const pos2Striker = this.getRandomPosition(2, 'striker');
+        const pos2Mid = this.getRandomPosition(2, 'midfielder');
+        this.team2.push(new Player(this, pos2Striker.x, pos2Striker.y, 'striker', 2, 'bluePlayer', 3));
+        this.team2.push(new Player(this, pos2Mid.x, pos2Mid.y, 'midfielder', 2, 'bluePlayer', 4));
+        this.team2.push(new Player(this, 700, 330, 'defender', 2, 'bluePlayer', 5));
+
+        // Add debug info
+        /*
+        this.debugText = this.add.text(10, 10, '', { 
+            fontSize: '12px',
+            fill: '#ffffff',
+            backgroundColor: '#000000'
+        });
+        */
+    }
+
+    update() {
+        if (this.paused) {
+            return;
+        }
+
+        // Update ball
+        this.ball.update();
+        
+        // Update all players
+        [...this.team1, ...this.team2].forEach(player => {
+            // Log player position for debugging
+            //console.log(`Player position: ${player.x}, ${player.y}`);
+            player.update(this.ball);
+        });
+
+        // Update debug info
+        /*
+        this.debugText.setText(
+            `Ball: x=${Math.round(this.ball.x)} y=${Math.round(this.ball.y)}\n` +
+            `vel: x=${Math.round(this.ball.body.velocity.x)} y=${Math.round(this.ball.body.velocity.y)}\n` +
+            'last touch: ' + (this.ball.lastTouchedBy ? this.ball.lastTouchedBy.role + this.ball.lastTouchedBy.team: 'none')
+        );
+        */
+    }
+
+    handleGoal(scoringTeam, score) {
+        if (this.paused) {
+            return;
+        }
+
+        // Update score
+        this.score[`team${scoringTeam}`]+= score;
+        
+        this.paused = true;
+
+        // Freeze all players and ball during the flashing animation
+        this.ball.setVelocity(0, 0);
+        [...this.team1, ...this.team2].forEach(player => {
+            player.setVelocity(0, 0);
+        });
+
+        // Update score display immediately
+        this.updateScoreDisplay();
+
+        // Flash score 3 times before restart
+        let flashCount = 0;
+        const flashInterval = setInterval(() => {
+            this.scoreText.visible = !this.scoreText.visible;
+            flashCount++;
+            
+            if (flashCount >= 6) { // 3 complete flashes (on-off cycles)
+                clearInterval(flashInterval);
+                this.scoreText.visible = true;
+                this.restartGame();
+            }
+        }, 200); // Flash every 200ms
+    }
+
+    updateScoreDisplay() {
+        // Make score text more prominent
+        this.scoreText.setText(`Red: ${this.score.team1}  Blue: ${this.score.team2}`);
+        this.scoreText.setFontSize('32px');
+        this.scoreText.setBackgroundColor('#CF7700');
+        this.scoreText.setPadding(10, 5);
+        this.scoreText.x = 400 - this.scoreText.width / 2;
+    }
+
+    restartGame() {
+        // Reset ball position to center of field
+        this.ball.setPosition(400, 300);
+        this.ball.setVelocity(0, 0);
+        this.ball.lastTouchedBy = null;
+
+        // Reset team positions using field-aware positioning
+        // Reset team 1 positions with random positions
+        const pos1Striker = this.getRandomPosition(1, 'striker');
+        const pos1Mid = this.getRandomPosition(1, 'midfielder');
+        this.team1[0].setPosition(pos1Striker.x, pos1Striker.y); // striker
+        this.team1[0].roleLabel.setPosition(pos1Striker.x, pos1Striker.y + labeloffset);
+        this.team1[1].setPosition(pos1Mid.x, pos1Mid.y); // midfielder
+        this.team1[1].roleLabel.setPosition(pos1Mid.x, pos1Mid.y + labeloffset);
+        this.team1[2].setPosition(100, 340); // defender
+        this.team1[2].roleLabel.setPosition(100, 320);
+
+        // Reset team 2 positions with random positions
+        const pos2Striker = this.getRandomPosition(2, 'striker');
+        const pos2Mid = this.getRandomPosition(2, 'midfielder');
+        this.team2[0].setPosition(pos2Striker.x, pos2Striker.y); // striker
+        this.team2[0].roleLabel.setPosition(pos2Striker.x, pos2Striker.y + labeloffset);
+        this.team2[1].setPosition(pos2Mid.x, pos2Mid.y); // midfielder
+        this.team2[1].roleLabel.setPosition(pos2Mid.x, pos2Mid.y + labeloffset);
+        this.team2[2].setPosition(700, 330); // defender
+        this.team2[2].roleLabel.setPosition(700, 310);
+
+        // Reset all player velocities
+        [...this.team1, ...this.team2].forEach(player => {
+            player.setVelocity(0, 0);
+        });
+
+        this.paused = false;
+    }
+}
+
+const config = {
+    type: Phaser.AUTO,
+    parent: 'game-container',
+    width: 800,
+    height: 600,
+    physics: {
+        default: 'arcade',
+        arcade: {
+            gravity: { y: 0 },
+            debug: false,
+        }
+    },
+    scene: MainScene,
+    parent: 'game-container',
+    fps: {
+        target: 60,  // Reduced from 60
+        forceSetTimeOut: true
+    }
+};
+
+new Phaser.Game(config);
+  </script>
+
+
+<br>
+----
+《午后》：\[[上一篇]({% post_url 2024-09-29-songs %})\] 
