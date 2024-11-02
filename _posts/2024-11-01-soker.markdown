@@ -318,7 +318,7 @@ class Player extends Phaser.Physics.Arcade.Sprite {
             
             // Adjust angles based on team direction
             if (this.team === 2) {
-                angles.forEach((angle, i) => angles[i] = Math.PI + angle);
+                angles.forEach((angle, i) => angles[i] = Math.PI — angle);
             }
             
             // Find first unblocked direction
