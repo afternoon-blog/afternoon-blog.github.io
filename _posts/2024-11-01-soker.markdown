@@ -8,6 +8,7 @@ excerpt: ""
 
 经过精心调试后, 一个由简单规则组成的系统可以完成复杂的任务。
 
+2024万圣节晚作品。可以预测2024美大选结果喔。
 
 <script src="https://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.min.js"></script>
 <div id="game-container"></div>
@@ -143,7 +144,7 @@ class Player extends Phaser.Physics.Arcade.Sprite {
         }
         this.roleLabel = scene.add.text(x, y + labeloffset, roletext, {
             fontSize: labelfontsize,
-            fill: team === 1 ? '#ff0000' : '#0000ff',
+            fill: team === 2 ? '#ff0000' : '#0000ff',
             backgroundColor: '#ffffff',
             padding: { x: 3, y: 1 }
         });
@@ -595,7 +596,7 @@ class MainScene extends Phaser.Scene {
 
     updateScoreDisplay() {
         // Make score text more prominent
-        this.scoreText.setText(`Red: ${this.score.team1}  Blue: ${this.score.team2}`);
+        this.scoreText.setText(`蓝方: ${this.score.team1}  红方: ${this.score.team2}`);
         this.scoreText.setFontSize('32px');
         this.scoreText.setBackgroundColor('#CF7700');
         this.scoreText.setPadding(10, 5);
