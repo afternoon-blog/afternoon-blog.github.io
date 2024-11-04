@@ -482,6 +482,7 @@ class MainScene extends Phaser.Scene {
         const goalheight = 128;
 
         this.paused = false;
+        this.turn = 0;
 
         // Add soccer field centered
         const field = this.add.image(400, 300, 'field');
@@ -544,8 +545,18 @@ class MainScene extends Phaser.Scene {
         // Update ball
         this.ball.update();
         
+        let teams;
         // Update all players
-        [...this.team1, ...this.team2].forEach(player => {
+        if (this.turn == 0) {
+            teams = [this.team1[0], this.team2[0], this.team1[1], this.team2[1], this.team1[2], this.team1[2]];
+            this.turn = 1;
+        }
+        else {
+            teams = [this.team2[0], this.team1[0], this.team2[1], this.team1[1], this.team2[2], this.team1[2]];
+            this.turn = 0;
+        }
+        
+        teams.forEach(player => {
             // Log player position for debugging
             //console.log(`Player position: ${player.x}, ${player.y}`);
             player.update(this.ball);
