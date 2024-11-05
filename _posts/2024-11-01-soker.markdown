@@ -548,7 +548,7 @@ class MainScene extends Phaser.Scene {
         let teams;
         // Update all players
         if (this.turn == 0) {
-            teams = [this.team1[0], this.team2[0], this.team1[1], this.team2[1], this.team1[2], this.team1[2]];
+            teams = [this.team1[0], this.team2[0], this.team1[1], this.team2[1], this.team1[2], this.team2[2]];
             this.turn = 1;
         }
         else {
