@@ -38,6 +38,6 @@ excerpt: ""
 <br>
 <br>
 ----
-诗歌选译：\[[上一篇]({% post_url 2024-07-01-stray-birds012-weapon %})\] 
+诗歌选译：\[[上一篇]({% post_url 2024-07-01-stray-birds012-weapon %})\] \[[下一篇]({% post_url 2024-12-02-stray-birds013-godself %})\] 
 
 《午后》：\[[上一篇]({% post_url 2024-08-20-headache %})\] \[[下一篇]({% post_url 2024-09-29-songs %})\] 
