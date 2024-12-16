@@ -13,6 +13,6 @@ excerpt: ""
 <img style="float:left" src="/assets/shadow.jpg">
 
 ----
-诗歌选译：\[[上一篇]({% post_url 2024-12-02-stray-birds013-godself %})\] 
+诗歌选译：\[[上一篇]({% post_url 2024-12-02-stray-birds013-godself %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds015-star-firefly %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-12-02-stray-birds013-godself %})\] 
+《午后》：\[[上一篇]({% post_url 2024-12-02-stray-birds013-godself %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds015-star-firefly %})\] 
