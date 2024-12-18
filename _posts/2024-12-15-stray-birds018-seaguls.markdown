@@ -15,6 +15,6 @@ excerpt: ""
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2024-12-15-stray-birds017-reveal %})\] 
+诗歌选译：\[[上一篇]({% post_url 2024-12-15-stray-birds017-reveal %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-12-15-stray-birds017-reveal %})\] 
+《午后》：\[[上一篇]({% post_url 2024-12-15-stray-birds017-reveal %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] 
