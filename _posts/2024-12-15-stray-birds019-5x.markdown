@@ -124,6 +124,6 @@ excerpt: ""
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2024-12-15-stray-birds018-seaguls %})\] 
+诗歌选译：\[[上一篇]({% post_url 2024-12-15-stray-birds015-star-firefly %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-12-15-stray-birds018-seaguls %})\] 
+《午后》：\[[上一篇]({% post_url 2024-12-15-stray-birds015-star-firefly %})\] 

@@ -14,6 +14,6 @@ excerpt: ""
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2024-12-02-stray-birds014-shadow %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds016-sharp-mind %})\] 
+诗歌选译：\[[上一篇]({% post_url 2024-12-02-stray-birds014-shadow %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-12-02-stray-birds014-shadow %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds016-sharp-mind %})\] 
+《午后》：\[[上一篇]({% post_url 2024-12-02-stray-birds014-shadow %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] 
