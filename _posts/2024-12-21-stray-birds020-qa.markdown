@@ -78,6 +78,6 @@ Yes and Yes.
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] 
+诗歌选译：\[[上一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] \[[下一篇]({% post_url 2024-12-21-stray-birds021-6x %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] 
+《午后》：\[[上一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] \[[下一篇]({% post_url 2024-12-21-stray-birds021-6x %})\] 
