@@ -111,4 +111,4 @@ Wrong cannot afford defeat but Right can.
 
 诗歌选译：\[[上一篇]({% post_url 2024-12-21-stray-birds020-qa %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-12-21-stray-birds020-qa %})\] 
+《午后》：\[[上一篇]({% post_url 2024-12-21-stray-birds020-qa %})\] \[[下一篇]({% post_url 2024-12-23-as-wished %})\] 
