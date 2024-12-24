@@ -8,22 +8,24 @@ excerpt: "英译《如愿》"
 
 <img src="/assets/as-wished.jpg" width="100%" />
 
+v2
+
 译自唐恬的《如愿》
 <br>
 <br>You are the distant road
-<br>The light in the mountain fog
+<br>The beacon in the mountain fog
 <br>
-<br>I am a child
-<br>Walking in your gaze
+<br>I am but a child
+<br>Wandering within your gaze
 <br>
-<br>You are the bright moon and gentle breeze
-<br>I am the dream you care for
+<br>You are the bright moon, the gentle breeze
+<br>I am the dream you shelter
 <br>
 <br>Whether we meet or not, I will embrace you for a lifetime
 <br>And I will love the world you love
 <br>Wish for the smiles you wish for
-<br>I stumble as I hold your hand
-<br>Please take me to the future
+<br>I stumble as I clutch your hand
+<br>Please lead me to tomorrow
 <br>
 <br>If you ever endured bitterness for my sweetness
 <br>I am willing to live out your wishes
@@ -37,14 +39,14 @@ excerpt: "英译《如愿》"
 <br>I am your admirer
 <br>Singing you into my song
 <br>
-<br>You are where I came from
+<br>You are where I began
 <br>And where my heart belongs
 <br>
-<br>All the paths in the world will meet with you
+<br>All roads in this world will lead to you
 <br>And I will love the world you love
 <br>Wish for the smiles you wish for
-<br>I stumble as I hold your hand
-<br>Please take me to the future
+<br>I stumble as I clutch your hand
+<br>Please lead me to tomorrow
 <br>
 <br>If you ever endured bitterness for my sweetness
 <br>I am willing to live out your wishes
@@ -52,8 +54,8 @@ excerpt: "英译《如愿》"
 <br>In this prosperous world every day
 <br>
 <br>Your land at peace, your folks at ease
-<br>Isn't this the vision you longed for?
-<br>Children sleep peacefully in their dreams
+<br>Is this not the vision you yearned for?
+<br>Children sleep soundly in their dreams
 <br>Just like the way you love so deeply
 <br>
 <br>And I will dream of the reunions you dream of
@@ -72,7 +74,7 @@ excerpt: "英译《如愿》"
 <br>
 
 
-配乐朗诵
+配乐朗诵(v1)
 
 <video width=360 controls>
   <source src="/assets/as-wished-small.mp4" type="video/mp4">
