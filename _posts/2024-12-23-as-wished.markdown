@@ -9,7 +9,6 @@ excerpt: "如愿"
 <img src="/assets/as-wished.jpg" width="100%" />
 
 译自唐恬的《如愿》
-
 <br>
 <br>You are the distant road
 <br>The light in the mountain fog
