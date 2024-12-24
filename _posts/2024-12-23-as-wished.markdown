@@ -1,0 +1,85 @@
+---
+layout: post
+title: "As Wished"
+date: 2024-12-23
+image: "/assets/as-wished.jpg"
+excerpt: "如愿"
+---
+
+<img src="/assets/as-wished.jpg" width="100%" />
+
+译自唐恬的《如愿》
+
+<br>
+<br>You are the distant road
+<br>The light in the mountain fog
+<br>
+<br>I am a child
+<br>Walking in your eyes
+<br>
+<br>You are the bright moon and gentle breeze
+<br>I am the dream you care for
+<br>
+<br>Whether we meet or not, I will embrace you for a lifetime
+<br>And I will love the world you love
+<br>Wish for the smiles you wish for
+<br>I stumble as I hold your hand
+<br>Please take me to tomorrow
+<br>
+<br>If you have endured bitterness for my sweetness
+<br>I am willing to live out your wishes
+<br>
+<br>May it not be in vain, may we move bravely forward
+<br>In this prosperous world every day
+<br>
+<br>You are the river of time
+<br>The sky ignited by starlight
+<br>
+<br>I am the admirer
+<br>Singing you into a song
+<br>
+<br>You are where I come from
+<br>And where my heart belongs
+<br>
+<br>All paths in the world will meet you
+<br>And I will love the world you love
+<br>Wish for the smiles you wish for
+<br>I stumble as I hold your hand
+<br>Please take me to tomorrow
+<br>
+<br>If you have endured bitterness for my sweetness
+<br>I am willing to live out your wishes
+<br>May it not be in vain, may we move bravely forward
+<br>In this prosperous world every day
+<br>
+<br>The mountains and rivers are at peace, life carries on as usual. 
+<br>Isn't this the vision you longed for?
+<br>Children sleep peacefully in their dreams
+<br>Just like you love deeply
+<br>
+<br>And I will dream of the reunions you dream of
+<br>Wish for the forever you wish for
+<br>Walk the long roads you walk
+<br>To love you like this
+<br>
+<br>I will see the world you haven't seen
+<br>Write the poems you haven't written
+<br>The moon at the horizon, the thoughts in my heart
+<br>You are always by my side
+<br>
+<br>With you, I make a promise, a lifetime of clarity
+<br>Like your youthful face
+<br>
+<br>
+
+
+配乐朗诵
+
+<video width=360 controls>
+  <source src="/assets/as-wished-small.mp4" type="video/mp4">
+</video>
+
+
+
+----
+《午后》：\[[上一篇]({% post_url 2024-12-21-stray-birds021-6x %})\] 
