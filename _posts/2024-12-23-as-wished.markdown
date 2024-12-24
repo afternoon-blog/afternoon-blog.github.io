@@ -3,7 +3,7 @@ layout: post
 title: "As Wished"
 date: 2024-12-23
 image: "/assets/as-wished.jpg"
-excerpt: "如愿"
+excerpt: "英译《如愿》"
 ---
 
 <img src="/assets/as-wished.jpg" width="100%" />
@@ -14,7 +14,7 @@ excerpt: "如愿"
 <br>The light in the mountain fog
 <br>
 <br>I am a child
-<br>Walking in your eyes
+<br>Walking in your gaze
 <br>
 <br>You are the bright moon and gentle breeze
 <br>I am the dream you care for
@@ -66,7 +66,7 @@ excerpt: "如愿"
 <br>The moon at the horizon, the thoughts in my heart
 <br>You are always by my side
 <br>
-<br>With you, I make a promise, a lifetime of clarity
+<br>With you, I make a promise, a lifetime of innocence
 <br>Like your youthful face
 <br>
 <br>
