@@ -63,7 +63,7 @@ excerpt: ""
 <br>
 >We read the world wrong and say that it deceives us.
 
-我们误解了这世界，却说他欺骗了我们。
+我们误解了这世界，却说它欺骗了我们。
 
 ----
 
@@ -93,7 +93,7 @@ excerpt: ""
 
 草在地上寻找同伴，树在空中追寻孤寂。
 
-燕雀安知鸿鹄之志哉
+----
 
 ### 79 禁锢
 <img src="/assets/lockup.jpg"/>
