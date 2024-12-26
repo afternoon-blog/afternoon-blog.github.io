@@ -1,0 +1,109 @@
+---
+layout: post
+title: "《飞鸟集》: 70-79"
+date: 2024-12-25
+image: "assets/birds.jpg"
+excerpt: ""
+---
+
+
+### 70 狂喜的源泉
+<img src="/assets/water-flower.jpg"/>
+<br>
+> Where is the fountain that throws up these flowers in a ceaseless outbreak of ecstasy?
+
+狂喜中抛洒出这么多水花的源泉在哪里啊？
+
+---
+
+### 71 斧与树
+<img src="/assets/axe.jpg"/>
+<br>
+>The woodcutter’s axe begged for its handle from the tree. The tree gave it.
+
+斧求树与柄，树授之。
+
+----
+
+### 72 孤寂的心
+<img src="/assets/rainy-evening.jpg"/>
+<br>
+>In my solitude of heart I feel the sigh of this widowed evening veiled with mist and rain.
+
+<br>薄雾轻雨，
+<br>孤寂的心
+<br>是
+<br>独夜的叹息。
+
+----
+
+### 73 贞洁
+<img src="/assets/love.jpg"/>
+<br>
+>Chastity is a wealth that comes from abundance of love.
+
+贞洁是财富，来自爱的丰足。
+
+
+----
+
+### 74 雾
+<img src="/assets/mist-love.jpg"/>
+<br>
+>The mist, like love, plays upon the heart of the hills and brings out surprises of beauty.
+
+<br>雾
+<br>在山峦的心房嬉戏，有惊艳
+<br>像那爱情
+
+----
+
+### 75 误解
+<img src="/assets/mis-understand.jpg"/>
+<br>
+>We read the world wrong and say that it deceives us.
+
+我们误解了这世界，却说他欺骗了我们。
+
+----
+
+### 76 穿林越海的风
+<img src="/assets/poet-wind.jpg"/>
+<br>
+>The poet wind is out over the sea and the forest to seek his own voice.
+
+诗人的风，吹过海洋，跨越/穿越森林，追寻着自己的歌声。
+
+----
+
+### 77 新生儿
+<img src="/assets/newborn.jpg"/>
+<br>
+>Every child comes with the message that God is not yet discouraged of man.
+
+每个孩子的出生都带来了神谕 - 上帝并没有灰心丧气放弃人类。
+
+----
+
+
+### 78 燕雀安知鸿鹄之志哉
+<img src="/assets/tree.jpg"/>
+<br>
+>The grass seeks her crowd in the earth. The tree seeks his solitude of the sky.
+
+草在地上寻找同伴，树在空中追寻孤寂。
+
+燕雀安知鸿鹄之志哉
+
+### 79 禁锢
+<img src="/assets/lockup.jpg"/>
+<br>
+>Man barricades against himself。
+
+作茧自缚
+
+----
+
+诗歌选译：\[[上一篇]({% post_url 2024-12-21-stray-birds021-6x %})\] 
+
+《午后》：\[[上一篇]({% post_url 2024-12-23-as-wished %})\] 
