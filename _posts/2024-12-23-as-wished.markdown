@@ -8,7 +8,6 @@ excerpt: "英译《如愿》"
 
 <img src="/assets/as-wished.jpg" width="100%" />
 
-v2
 
 译自唐恬的《如愿》
 <br>
@@ -40,7 +39,7 @@ v2
 <br>Singing you into my song
 <br>
 <br>You are where I began
-<br>And where my heart belongs
+<br>And where my heart will rest
 <br>
 <br>All roads in this world will lead to you
 <br>And I will love the world you love
@@ -74,7 +73,7 @@ v2
 <br>
 
 
-配乐朗诵(v1)
+配乐朗诵
 
 <video width=360 controls>
   <source src="/assets/as-wished-small.mp4" type="video/mp4">
