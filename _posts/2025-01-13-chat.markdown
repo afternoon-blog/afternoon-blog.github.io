@@ -3,7 +3,7 @@ layout: post
 title: "尬聊"
 date: 2025-01-13
 image: "/assets/meeting.jpg"
-excerpt: "周五下午学习发言"
+excerpt: "AI敲边一只顶"
 ---
 
 <img src="/assets/meeting.jpg" width="100%" />
@@ -13,7 +13,8 @@ excerpt: "周五下午学习发言"
   <source src="/assets/Chronic_Headaches_A_Personal_Account.mp3" type="audio/mpeg">
 </audio>
 
-是否找到一点星期五下午政治学习时小组发言的感觉?
+是否找到一点星期五下午政治学习时小组发言的感觉? AI敲边一只顶。过滤高质量内容应该是 Web 4.0 的方向。
+
 
 
 
