@@ -40,6 +40,8 @@ excerpt: ""
 最近又新添了一种“text completion”模式。非要完成一些文字。前面那篇有关[豆汁]({% post_url 2024-08-19-douzhi %})的文章和这篇文章，就是在这次COVID头痛时，躺在床上打的腹稿。善哉，善哉。  
 
 
+----
+
 Google NotebookLM
 <audio controls>
   <source src="/assets/Chronic_Headaches_A_Personal_Account.mp3" type="audio/mpeg">
