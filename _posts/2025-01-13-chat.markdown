@@ -1,0 +1,21 @@
+---
+layout: post
+title: "尬聊"
+date: 2025-01-13
+image: "/assets/meeting.jpg"
+excerpt: "周五下午学习发言"
+---
+
+<img src="/assets/meeting.jpg" width="100%" />
+
+当我把[《头痛经》]({% post_url 2024-08-20-headache %})丢给 Google NotebookLM 以后,
+<audio controls>
+  <source src="/assets/Chronic_Headaches_A_Personal_Account.mp3" type="audio/mpeg">
+</audio>
+
+是否找到一点星期五下午政治学习时小组发言的感觉?
+
+
+
+----
+《午后》：\[[上一篇]({% post_url 2025-01-08-stray-birds024-9x %})\] 
