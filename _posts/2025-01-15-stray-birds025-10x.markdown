@@ -1,0 +1,107 @@
+---
+layout: post
+title: "《飞鸟集》: 100-109"
+date: 2025-01-15
+image: "assets/birds.jpg"
+excerpt: ""
+---
+
+### 100 云朵
+<img src="/assets/morning-cloud.jpg"/>
+<br>
+>The cloud stood humbly in a corner of the sky.
+>The morning crowned it with splendour.
+
+云朵谦逊地站在天空的一角，晨曦给它披上了绚丽的朝霞。
+
+----
+
+### 101 土地
+<img src="/assets/dust-flower.jpg"/>
+<br>
+> The dust receives insult and in return offers her flowers.
+
+土地承受了侮辱，却以花朵回赠。
+
+----
+
+### 102 花开一路
+<img src="/assets/flower-all-the-way.jpg"/>
+<br>
+> Do not linger to gather flowers to keep them, but walk on, for flowers will keep themselves blooming all your way.
+
+走过去吧，不要为了采花而徘徊，美丽的花儿会一路绽放。
+
+----
+
+### 103 根与枝
+<img src="/assets/branch.jpg"/>
+<br>
+> Roots are the branches down in the earth.
+> Branches are roots in the air.
+
+<br>根是土里的枝干。
+<br>枝干是空气里的根。
+
+----
+
+### 104 夏秋
+<img src="/assets/summer-autum.jpg"/>
+<br>
+> The music of the far-away summer flutters around the Autumn seeking its former nest.
+
+遥远夏日的音乐翩然飘舞，徘徊于这秋天，寻觅着它昔日的归宿。
+
+----
+
+### 105 冒犯
+<img src="/assets/insult.jpg"/>
+<br>
+> Do not insult your friend by lending him merits from your own pocket.
+
+不要将你自身的长处借给你的朋友，那是在冒犯他。
+
+----
+
+### 106 牵挂
+<img src="/assets/moss.jpeg"/>
+*Cloud forest, Costa Rica, 2024*
+<br>
+> The touch of the nameless days clings to my heart like mosses round the old tree.
+
+对那些无名岁月的感触，就如苔藓攀附老树般，紧紧依偎在我的心上。
+
+----
+
+### 107 回声
+<img src="/assets/echo.jpg"/>
+<br>
+> The echo mocks her origin to prove she is the original.
+
+回声讥笑她的原声，以此证明她才是原声。
+
+----
+
+
+### 108 恩宠
+<img src="/assets/boast.jpg"/>
+<br>
+> God is ashamed when the prosperous boasts of his special favour
+
+当富足之人夸耀自己受到了特别的恩宠时，神也会感到羞愧。
+
+----
+
+### 109 阴影
+<img src="/assets/myshadow.jpg"/>
+<br>
+>  I cast my own shadow upon my path, because I have a lamp that has not been lighted.
+
+我在自己的路上投下了阴影，只因我手中的灯尚未点亮。
+
+
+----
+
+诗歌选译：\[[上一篇]({% post_url 2025-01-08-stray-birds024-9x %})\] 
+
+《午后》：\[[上一篇]({% post_url 2025-01-13-chat %})\] 

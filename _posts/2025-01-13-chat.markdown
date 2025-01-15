@@ -19,4 +19,4 @@ excerpt: "AI敲边一只顶"
 
 
 ----
-《午后》：\[[上一篇]({% post_url 2025-01-08-stray-birds024-9x %})\] 
+《午后》：\[[上一篇]({% post_url 2025-01-08-stray-birds024-9x %})\] \[[下一篇]({% post_url 2025-01-15-stray-birds025-10x %})\] 
