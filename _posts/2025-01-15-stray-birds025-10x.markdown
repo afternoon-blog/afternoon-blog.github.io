@@ -64,7 +64,7 @@ excerpt: ""
 ----
 
 ### 106 牵挂
-<img src="/assets/moss.jpeg"/>
+<img src="/assets/moss.jpg"/>
 *Cloud forest, Costa Rica, 2024*
 <br>
 > The touch of the nameless days clings to my heart like mosses round the old tree.
