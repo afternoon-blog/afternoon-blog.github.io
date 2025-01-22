@@ -92,7 +92,7 @@ excerpt: ""
 
 ----
 
-### 129 可能
+### 129 可能不可能
 <img src="/assets/impossible.jpg"/>
 <br>
 > Asks the Possible to the Impossible, "Where is your dwelling place?"<br>
