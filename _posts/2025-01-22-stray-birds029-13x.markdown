@@ -102,7 +102,7 @@ excerpt: ""
 -----
 
 ### 139 时间
-<img src="/assets/door-shut.jpg"/>
+<img src="/assets/clock.jpg"/>
 <br>
 > Time is the wealth of change, but the clock in its parody makes it mere change and no wealth.
 
