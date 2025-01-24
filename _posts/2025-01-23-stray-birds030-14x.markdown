@@ -15,7 +15,7 @@ excerpt: ""
 >In fiction she moves with ease.
 
 <br>真理会被事实的紧衣束缚，
-<br>而在想象的宽袍中，她却活动自如。
+<br>而在想象的宽袍中，她能活动自如。
 
 <br>释：
 <br>当真理仅靠客观事实来陈述时，往往会受限于表述的贫乏；然而通过虚构或文学的方式，如小说、诗歌、寓言等，通过想象力、隐喻、象征等手段，反而可以更灵活, 更充分地地表达那些难以直接陈述的深层含义。
@@ -28,7 +28,7 @@ excerpt: ""
 >When I travelled to here and to there, I was tired of thee, O Road, but now when thou leadest me to everywhere I am wedded to thee in love.
 
 <br>哦，路啊，当我奔波于两点一线的时候，我曾厌倦了你，
-<br>但如今，当你带我走向四方时，我与你缔结爱的盟约，厮守终生。
+<br>但如今，当你带我走向四方时，我爱上了你，愿与你厮守终生。
 
 ----
 
@@ -37,7 +37,7 @@ excerpt: ""
 <br>
 >Let me think that there is one among those stars that guides my life through the dark unknown.
 
-让我相信，在那些星辰之中，会有一颗星星引领我的生命穿越这未知的黑暗。
+让我相信，在那繁星之中，会有一颗星星引领我，穿越这未知的黑暗。
 
 ----
 
@@ -46,7 +46,7 @@ excerpt: ""
 <br>
 >Woman, with the grace of your fingers you touched my things and order came out like music.
 
-女子啊，用你指尖的优雅触碰了我的一切，使得一切像音乐般井然有序。
+女子啊，用你指尖的优雅触碰了我的世界，使得一切像音乐般井然有序。
 
 ----
 
@@ -57,7 +57,7 @@ excerpt: ""
 > It sings to me in the night,--"I loved you."
 
 <br>一个忧伤的声音栖息在岁月的废墟中，
-<br>它在夜里对我歌唱——“我曾爱过你。”
+<br>它在夜里对我唱道 —— “我曾爱过你。”
 
 ----
 
@@ -81,7 +81,7 @@ excerpt: ""
 >But oh for my little lamp unlit in my house.
 
 <br>我拥有天上的星辰，
-<br>哦，可我挂念的却是
+<br>哦，可我挂念的还是
 <br>家中那盏小灯还未点燃。
 
 ----
@@ -118,7 +118,7 @@ excerpt: ""
 >Come out, my heart, with thy love to meet it.
 
 <br>清晨，世界敞开了它光明的心扉。
-<br>走出去吧，我的心，带着你的爱去迎接它。
+<br>走出来吧，我的心，带着你的爱去迎接它。
 
 ----
 
