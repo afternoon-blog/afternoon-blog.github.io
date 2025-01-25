@@ -145,7 +145,7 @@ excerpt: ""
 >"The learned say that your lights will one day be no more."  said the firefly to the stars.<br>
 >The stars made no answer.
 
-<br>萤火虫对群星星说：“学者们说，你们的光芒终有一天会消失。”
+<br>萤火虫对群星说：“学者们说，你们的光芒终有一天会消失。”
 <br>群星沉默不语。
 
 ----
@@ -176,7 +176,7 @@ excerpt: ""
 <br>
 >The canal loves to think that rivers exist solely to supply it with water.
 
-沟渠总是乐意认为河流的存在只是为了给它输送水源。
+沟渠总是乐意认为河流的存在只是为了给它提供水源。
 
 ----
 
@@ -270,8 +270,10 @@ excerpt: ""
 >Very little remains for my home.
 
 <br>我沿途洒落水罐中的水，
-<br>剩下留给自家的已然所剩无几。
+<br>能够带回家的已然所剩无几。
 
+<br>释:
+<br>我们在人生的道路上，难免会不自觉地或被迫地耗费自己的精力和时间。当我们回首时，才发现自己已经没有多少剩余能够留给追逐目标。珍惜人生，远离消耗。“
 ----
 
 
