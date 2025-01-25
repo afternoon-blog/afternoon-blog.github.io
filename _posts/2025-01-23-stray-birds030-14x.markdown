@@ -122,6 +122,6 @@ excerpt: ""
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2025-01-22-stray-birds029-13x %})\] 
+诗歌选译：\[[上一篇]({% post_url 2025-01-22-stray-birds029-13x %})\] \[[下一篇]({% post_url 2025-12-25-stray-birds031-15x-16x-17x %})\] 
 
-《午后》：\[[上一篇]({% post_url 2025-01-22-stray-birds029-13x %})\] 
+《午后》：\[[上一篇]({% post_url 2025-01-22-stray-birds029-13x %})\] \[[下一篇]({% post_url 2025-12-25-stray-birds031-15x-16x-17x %})\] 
