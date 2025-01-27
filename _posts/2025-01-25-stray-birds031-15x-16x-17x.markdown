@@ -327,6 +327,6 @@ excerpt: ""
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2025-01-23-stray-birds030-14x %})\] 
+诗歌选译：\[[上一篇]({% post_url 2025-01-23-stray-birds030-14x %})\] \[[下一篇]({% post_url 2025-01-26-stray-birds032-18x-19x %})\] 
 
-《午后》：\[[上一篇]({% post_url 2025-01-23-stray-birds030-14x %})\] 
+《午后》：\[[上一篇]({% post_url 2025-01-23-stray-birds030-14x %})\] \[[下一篇]({% post_url 2025-01-26-stray-birds032-18x-19x %})\] 
