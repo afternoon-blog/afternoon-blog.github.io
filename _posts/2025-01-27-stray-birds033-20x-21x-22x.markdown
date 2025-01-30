@@ -308,6 +308,6 @@ Let my doing nothing when I have nothing to do become untroubled in its depth of
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2025-01-26-stray-birds032-18x-19x %})\] 
+诗歌选译：\[[上一篇]({% post_url 2025-01-26-stray-birds032-18x-19x %})\] \[[下一篇]({% post_url 2025-01-29-stray-birds034-23x-24x-25x %})\] 
 
-《午后》：\[[上一篇]({% post_url 2025-01-26-stray-birds032-18x-19x %})\] 
+《午后》：\[[上一篇]({% post_url 2025-01-26-stray-birds032-18x-19x %})\] \[[下一篇]({% post_url 2025-01-29-stray-birds034-23x-24x-25x %})\] 
