@@ -304,6 +304,6 @@ The false can never grow into truth by growing in power.
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2025-01-27-stray-birds033-20x-21x-22x %})\] 
+诗歌选译：\[[上一篇]({% post_url 2025-01-27-stray-birds033-20x-21x-22x %})\] \[[下一篇]({% post_url 2025-02-02-stray-birds035-26x-27x-28x %})\] 
 
-《午后》：\[[上一篇]({% post_url 2025-01-27-stray-birds033-20x-21x-22x %})\] 
+《午后》：\[[上一篇]({% post_url 2025-01-27-stray-birds033-20x-21x-22x %})\] \[[下一篇]({% post_url 2025-02-02-stray-birds035-26x-27x-28x %})\] 
