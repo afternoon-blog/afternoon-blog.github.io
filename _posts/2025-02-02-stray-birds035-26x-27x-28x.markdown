@@ -8,7 +8,7 @@ excerpt: ""
 
 
 ### 260 路边的草
-<img src="/assets/u.jpg"/>
+<img src="/assets/grass-260.jpg"/>
 <br>
 >Wayside grass, love the star, then your dreams will come out in flowers.
 
@@ -17,7 +17,7 @@ excerpt: ""
 ----
 
 ### 261 你的音乐
-<img src="/assets/u.jpg"/>
+<img src="/assets/market-261.jpg"/>
 <br>
 >Let your music, like a sword, pierce the noise of the market to its heart.
 
@@ -26,7 +26,7 @@ excerpt: ""
 ----
 
 ### 262 颤动的树叶
-<img src="/assets/u.jpg"/>
+<img src="/assets/leaves-262.jpg"/>
 <br>
 >The trembling leaves of this tree touch my heart like the fingers of an infant child.
 
@@ -35,7 +35,7 @@ excerpt: ""
 ----
 
 ### 264 小花
-<img src="/assets/u.jpg"/>
+<img src="/assets/flower-264.jpg"/>
 <br>
 >The little flower lies in the dust.<br>
 >It sought the path of the butterfly.
@@ -45,7 +45,7 @@ excerpt: ""
 ----
 
 ### 265 夜归
-<img src="/assets/u.jpg"/>
+<img src="/assets/night-265.jpg"/>
 <br>
 >I am in the world of the roads.  The night comes.  Open thy gate, thou world of the home.
 
@@ -65,7 +65,7 @@ excerpt: ""
 ----
 
 ### 266 夜行
-<img src="/assets/u.jpg"/>
+<img src="/assets/night-266.jpg"/>
 <br>
 >I have sung the songs of thy day.  In the evening let me carry thy lamp through the stormy path.
 
@@ -75,7 +75,7 @@ excerpt: ""
 ----
 
 ### 267 我的爱人
-<img src="/assets/u.jpg"/>
+<img src="/assets/lone-267.jpg"/>
 <br>
 <br>I do not ask thee into the house.
 <br>Come into my infinite loneliness, my Lover.
@@ -88,7 +88,7 @@ excerpt: ""
 ----
 
 ### 268 生死
-<img src="/assets/u.jpg"/>
+<img src="/assets/feet-268.jpg"/>
 <br>
 >Death belongs to life as birth does.  The walk is in the raising of the foot as in the laying of it down.
 
@@ -98,7 +98,7 @@ excerpt: ""
 ----
 
 ### 269 学习
-<img src="/assets/u.jpg"/>
+<img src="/assets/duo-269.jpg"/>
 <br>
 >I have learnt the simple meaning of thy whispers in flowers and sunshine--teach me to know thy words in pain and death.
 
@@ -108,7 +108,7 @@ excerpt: ""
 ----
 
 ### 270 夜之花
-<img src="/assets/u.jpg"/>
+<img src="/assets/flower-270.jpg"/>
 <br>
 >The night's flower was late when the morning kissed her, she shivered and sighed and dropped to the ground.
 
@@ -122,7 +122,7 @@ excerpt: ""
 
 
 ### 271 万物的忧伤
-<img src="/assets/u.jpg"/>
+<img src="/assets/sad-271.jpg"/>
 <br>
 >Through the sadness of all things I hear the crooning of the Eternal Mother.
 
@@ -131,7 +131,7 @@ excerpt: ""
 ----
 
 ### 272 尘世
-<img src="/assets/u.jpg"/>
+<img src="/assets/earth-272.jpg"/>
 <br>
 >I came to your shore as a stranger, I lived in your house as a guest, I leave your door as a friend, my earth.
 
@@ -143,7 +143,7 @@ excerpt: ""
 ----
 
 ### 273 离去
-<img src="/assets/u.jpg"/>
+<img src="/assets/sunset-273.jpg"/>
 <br>
 >Let my thoughts come to you, when I am gone, like the afterglow of sunset at the margin of starry silence.
 
@@ -153,7 +153,7 @@ excerpt: ""
 ----
 
 ### 274 晚星
-<img src="/assets/u.jpg"/>
+<img src="/assets/star-274.jpg"/>
 <br>
 >Light in my heart the evening star of rest and then let the night whisper to me of love.
 
@@ -162,7 +162,7 @@ excerpt: ""
 ----
 
 ### 275 黑暗中的孩子
-<img src="/assets/u.jpg"/>
+<img src="/assets/baby-275.jpg"/>
 <br>
 >I am a child in the dark.<br>
 >I stretch my hands through the coverlet of night for thee,<br>
@@ -175,7 +175,7 @@ excerpt: ""
 ----
 
 ### 276 母亲怀中
-<img src="/assets/u.jpg"/>
+<img src="/assets/mother-276.jpg"/>
 <br>
 >The day of work is done.  Hide my face in your arms, Mother.<br>
 >Let me dream.
@@ -185,7 +185,7 @@ excerpt: ""
 ----
 
 ### 277 曲终人散
-<img src="/assets/u.jpg"/>
+<img src="/assets/lamp-277.jpg"/>
 <br>
 >The lamp of meeting burns long; it goes out in a moment at the parting.
 
@@ -195,7 +195,7 @@ excerpt: ""
 ----
 
 ### 278 我曾深爱
-<img src="/assets/u.jpg"/>
+<img src="/assets/love-278.jpg"/>
 <br>
 >One word keep for me in thy silence, O World, when I am dead, "I have loved."
 
@@ -204,7 +204,7 @@ excerpt: ""
 ----
 
 ### 279 爱着
-<img src="/assets/u.jpg"/>
+<img src="/assets/love-world-279.jpg"/>
 <br>
 >We live in this world when we love it.
 
@@ -214,7 +214,7 @@ excerpt: ""
 ----
 
 ### 280 永恒
-<img src="/assets/u.jpg"/>
+<img src="/assets/fame-love-280.jpg"/>
 <br>
 >Let the dead have the immortality of fame, but the living the immortality of love.
 
@@ -224,17 +224,16 @@ excerpt: ""
 ----
 
 ### 281 孩子
-<img src="/assets/u.jpg"/>
+<img src="/assets/baby-281.jpg"/>
 <br>
 >I have seen thee as the half-awakened child sees his mother in the dusk of the dawn and then smiles and sleeps again.
 
 我曾见过你，如半梦半醒的孩子在晨曦中看见母亲，微笑，又沉沉睡去。
 
-
 ----
 
 ### 282 生命无穷
-<img src="/assets/u.jpg"/>
+<img src="/assets/die-282.jpg"/>
 <br>
 >I shall die again and again to know that life is inexhaustible.
 
@@ -244,7 +243,7 @@ excerpt: ""
 
 
 ### 283 阳台上 
-<img src="/assets/u.jpg"/>
+<img src="/assets/girl-283.jpg"/>
 <br>
 While I was passing with the crowd in the road I saw thy smile from the balcony and I sang and forgot all noise.
 
@@ -254,7 +253,7 @@ While I was passing with the crowd in the road I saw thy smile from the balcony 
 ----
 
 ### 284 圆满生命
-<img src="/assets/u.jpg"/>
+<img src="/assets/cpu-284.jpg"/>
 <br>
 >Love is life in its fulness like the cup with its wine.
 
@@ -263,7 +262,7 @@ While I was passing with the crowd in the road I saw thy smile from the balcony 
 ----
 
 ### 285 你的名字
-<img src="/assets/u.jpg"/>
+<img src="/assets/bird-285.jpg"/>
 <br>
 >They light their own lamps and sing their own words in their temples.<br>
 >But the birds sing thy name in thine own morning light,--for thy name is joy.
@@ -278,7 +277,7 @@ While I was passing with the crowd in the road I saw thy smile from the balcony 
 ----
 
 ### 286 沉默
-<img src="/assets/u.jpg"/>
+<img src="/assets/me-286.jpg"/>
 <br>
 >Lead me in the centre of thy silence to fill my heart with songs.
 
@@ -287,7 +286,7 @@ While I was passing with the crowd in the road I saw thy smile from the balcony 
 ----
 
 ### 287 渴望 
-<img src="/assets/u.jpg"/>
+<img src="/assets/star-287.jpg"/>
 <br>
 >Let them live who choose in their own hissing world of fireworks.<br>
 >My heart longs for thy stars, my God.
@@ -298,7 +297,7 @@ While I was passing with the crowd in the road I saw thy smile from the balcony 
 ----
 
 ### 288 爱
-<img src="/assets/u.jpg"/>
+<img src="/assets/love-288.jpg"/>
 <br>
 Love's pain sang round my life like the unplumbed sea, and love's joy sang like birds in its flowering groves.
 
@@ -308,7 +307,7 @@ Love's pain sang round my life like the unplumbed sea, and love's joy sang like 
 ----
 
 ### 289 熄灭灯 
-<img src="/assets/u.jpg"/>
+<img src="/assets/light-289.jpg"/>
 <br>
 >Put out the lamp when thou wishest.<br>
 >I shall know thy darkness and shall love it.
