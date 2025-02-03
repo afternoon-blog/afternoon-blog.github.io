@@ -7,7 +7,7 @@ excerpt: ""
 ---
 
 
-=== 2 流浪者
+### 2 流浪者
 <img src="/assets/travel-2.jpg"/>
 <br>
 >O troupe of little vagrants of the world, leave your footprints in my words.
@@ -16,7 +16,7 @@ excerpt: ""
 
 ---- 
 
-=== 3 世界
+### 3 世界
 <img src="/assets/world-3.jpg"/>
 <br>
 >The world puts off its mask of vastness to its lover.<br>
@@ -27,8 +27,8 @@ excerpt: ""
 
 ----
 
-=== 4 大地的泪水
-<img src="/assets/tear-4.jpg"/>
+### 4 大地的泪水
+<img src="/assets/teardrop.jpg"/>
 <br>
 >It is the tears of the earth that keep her smiles in bloom.
 
@@ -36,7 +36,7 @@ excerpt: ""
 
 ----
 
-=== 5 沙漠
+### 5 沙漠
 <img src="/assets/desert-5.jpg"/>
 <br>
 >The mighty desert is burning for the love of a blade of grass who shakes her head and laughs and flies away.
@@ -47,7 +47,7 @@ excerpt: ""
 
 ----
 
-=== 6 错过
+### 6 错过
 <img src="/assets/miss-6.jpg"/>
 <br>
 >If you shed tears when you miss the sun, you also miss the stars.
@@ -56,7 +56,7 @@ excerpt: ""
 
 ----
 
-==== 7 舞动的流水
+###= 7 舞动的流水
 <img src="/assets/water-7.jpg"/>
 <br>
 >The sands in your way beg for your song and your movement, dancing water.  Will you carry the burden of their lameness?
@@ -66,7 +66,7 @@ excerpt: ""
 
 ----
 
-=== 8 惆怅
+### 8 惆怅
 <img src="/assets/wistful-8.jpg"/>
 <br>
 >Her wistful face haunts my dreams like the rain at night.
@@ -75,16 +75,14 @@ excerpt: ""
 
 ----
 
-=== 9 梦醒
+### 9 梦醒
 <img src="/assets/woke-9.jpg"/>
 <br>
 >Once we dreamt that we were strangers.<br>
 >We wake up to find that we were dear to each other.
 
-<br>曾几何时
-<br>在梦中
+<br>曾几何时 在梦中
 <br>我们彼此陌生
-<br>
 <br>醒来 却发现
 <br>我们早已如此珍爱
 
@@ -94,7 +92,7 @@ excerpt: ""
 
 ----
 
-=== 10 平复的忧伤
+### 10 平复的忧伤
 <img src="/assets/woods-10.jpg"/>
 <br>
 >Sorrow is hushed into peace in my heart like the evening among the silent trees.
@@ -103,7 +101,7 @@ excerpt: ""
 
 ----
 
-=== 11 微风
+### 11 微风
 <img src="/assets/breeze-11.jpg"/>
 <br>
 >Some unseen fingers, like idle breeze, are playing upon my heart the music of the ripples.
@@ -112,7 +110,7 @@ excerpt: ""
 
 ----
 
-=== 12 语言 
+### 12 语言 
 <img src="/assets/sea-sky-12.jpg"/>
 <br>
 >"What language is thine, O sea?"<br>
@@ -127,7 +125,7 @@ excerpt: ""
 
 ---- 
 
-=== 13 倾听
+### 13 倾听
 <img src="/assets/listen-13.jpg"/>
 <br>
 >Listen, my heart, to the whispers of the world with which it makes love to you.
@@ -137,13 +135,13 @@ excerpt: ""
 
 ----
 
-=== 14 黑夜晨雾
+### 14 黑夜晨雾
 <img src="/assets/night-morning.jpg"/>
 <br>
 >The mystery of creation is like the darkness of night--it is great.  Delusions of knowledge are like the fog of the morning.
 
 <br>译1:
-<br>创造的奥秘犹如黑夜，博大而深邃。  
+<br>创造的奥秘犹如黑夜，博大而深邃。
 <br>认知的妄想犹如晨雾，飘渺而易散。 
 
 <br>译2: 大语言模型 2023
@@ -152,7 +150,7 @@ excerpt: ""
 
 ----
 
-==== 15 仰慕不是爱
+### 15 仰慕不是爱
 <img src="/assets/high-15.jpg"/>
 <br>
 >Do not seat your love upon a precipice because it is high.
@@ -164,7 +162,7 @@ excerpt: ""
 
 ----
 
-=== 16 窗前
+### 16 窗前
 <img src="/assets/window-16.jpg"/>
 <br>
 >I sit at my window this morning where the world like a passer-by stops for a moment, nods to me and goes.
@@ -174,7 +172,7 @@ excerpt: ""
 
 ----
 
-=== 17 思绪
+### 17 思绪
 <img src="/assets/leaves-17.jpg"/>
 <br>
 >These little thoughts are the rustle of leaves; they have their whisper of joy in my mind.
@@ -183,7 +181,7 @@ excerpt: ""
 
 ----
 
-=== 18 影子
+### 18 影子
 <img src="/assets/shadow-18.jpg"/>
 <br>
 >What you are you do not see, what you see is your shadow.
@@ -193,18 +191,18 @@ excerpt: ""
 
 ----
 
-=== 19 让我倾听
+### 19 让我倾听
 <img src="/assets/pray-19.jpg"/>
 <br>
 >My wishes are fools, they shout across thy songs, my Master.  Let me but listen.
 
 <br>我愚蠢的祈求在你的歌声中大声喧嚣，
-<br>哦，我的主，  
+<br>哦，我的主，
 <br>让我静静地倾听吧。
 
 ----
 
-=== 20 选择
+### 20 选择
 <img src="/assets/pick-20.jpg"/>
 <br>
 >I cannot choose the best.<br>
@@ -215,7 +213,7 @@ excerpt: ""
 
 ----
 
-=== 21 影子
+### 21 影子
 <img src="/assets/shadow-21.jpg"/>
 <br>
 >They throw their shadows before them who carry their lantern on their back.
@@ -224,7 +222,7 @@ excerpt: ""
 
 ----
 
-=== 22 惊奇
+### 22 惊奇
 <img src="/assets/life-22.jpg"/>
 <br>
 >That I exist is a perpetual surprise which is life.
@@ -233,7 +231,7 @@ excerpt: ""
 
 ----
 
-=== 23 花朵
+### 23 花朵
 <img src="/assets/flower-leaves-23.jpg"/>
 <br>
 >"We, the rustling leaves, have a voice that answers the storms, but who are you so silent?"<br>
@@ -241,12 +239,12 @@ excerpt: ""
 
 <br>“我们这些沙沙作响的落叶，
 <br>有声音可以回答风暴。
-<br>可你是谁？如此沉默”  
+<br>可你是谁？如此沉默”
 <br>“我只是一朵花。”
 
 ----
 
-=== 24 休憩
+### 24 休憩
 <img src="/assets/eyelid-24.jpg"/>
 <br>
 >Rest belongs to the work as the eyelids to the eyes.
@@ -255,7 +253,7 @@ excerpt: ""
 
 ----
 
-=== 25 孩子
+### 25 孩子
 <img src="/assets/child-25.jpg"/>
 <br>
 >Man is a born child, his power is the power of growth.
@@ -264,7 +262,7 @@ excerpt: ""
 
 ----
 
-=== 26 回馈
+### 26 回馈
 <img src="/assets/flower-26.jpg"/>
 <br>
 >God expects answers for the flowers he sends us, not for the sun and the earth.
@@ -273,7 +271,7 @@ excerpt: ""
 <br>而非太阳与大地。
 
 
-=== 27 阳光
+### 27 阳光
 <img src="/assets/light-and-kid.jpg"/>
 <br>
 >The light that plays, like a naked child, among the green leaves happily knows not that man can lie.
@@ -284,7 +282,7 @@ excerpt: ""
 
 ----
 
-=== 28 找到自己
+### 28 找到自己
 <img src="/assets/mirror-28.jpg"/>
 <br>
 >O Beauty, find thyself in love, not in the flattery of thy mirror.
@@ -295,7 +293,7 @@ excerpt: ""
 
 ----
 
-=== 29 我的心
+### 29 我的心
 <img src="/assets/beach-29.jpg"/>
 <br>
 >My heart beats her waves at the shore of the world and writes upon it her signature in tears with the words, "I love thee."
