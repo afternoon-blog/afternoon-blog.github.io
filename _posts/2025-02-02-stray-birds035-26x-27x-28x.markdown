@@ -92,7 +92,7 @@ excerpt: ""
 <br>
 >Death belongs to life as birth does.  The walk is in the raising of the foot as in the laying of it down.
 
-<br>死亡之于生命，如同诞生之于生命一般。
+<br>死亡之于生命，就如同诞生之于生命一般。
 <br>脚步的行走，也在抬足和落下之间。
 
 ----
@@ -103,7 +103,7 @@ excerpt: ""
 >I have learnt the simple meaning of thy whispers in flowers and sunshine--teach me to know thy words in pain and death.
 
 <br>我已在花朵与阳光中学会理解你的低语，
-<br>请教我在痛苦与死亡中领会你的话语。
+<br>请教我在痛苦与死亡中领会你的教诲。
 
 ----
 
@@ -169,7 +169,7 @@ excerpt: ""
 >Mother.
 
 <br>我是黑暗中的孩子。
-<br>穿过夜的被褥，寻你，
+<br>穿过夜的被窝，寻你，
 <br>母亲。
 
 ----
@@ -180,7 +180,7 @@ excerpt: ""
 >The day of work is done.  Hide my face in your arms, Mother.<br>
 >Let me dream.
 
-一天的劳作已结束，请将我的脸庇护在你的怀中，母亲，让我入梦。
+结束了一天的劳作，请将我的脸庇护在你的怀中，母亲，让我入梦。
 
 ----
 
