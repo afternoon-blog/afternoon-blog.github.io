@@ -1,0 +1,311 @@
+---
+layout: post
+title: "《飞鸟集》: 2-29"
+date: 2024-06-19
+image: "assets/birds.jpg"
+excerpt: ""
+---
+
+
+=== 2 流浪者
+<img src="/assets/travel-2.jpg"/>
+<br>
+>O troupe of little vagrants of the world, leave your footprints in my words.
+
+世间小小的流浪者啊，请在我的文字里，留下你们的足迹。
+
+---- 
+
+=== 3 世界
+<img src="/assets/world-3.jpg"/>
+<br>
+>The world puts off its mask of vastness to its lover.<br>
+>It becomes small as one song, as one kiss of the eternal.
+
+<br>当世界面对它所爱的人，便卸下了那广袤无边的面具。
+<br>它变得如此渺小，如同一支歌，一个永恒的吻。
+
+----
+
+=== 4 大地的泪水
+<img src="/assets/tear-4.jpg"/>
+<br>
+>It is the tears of the earth that keep her smiles in bloom.
+
+正是大地的泪水，让她的笑容常开不败。
+
+----
+
+=== 5 沙漠
+<img src="/assets/desert-5.jpg"/>
+<br>
+>The mighty desert is burning for the love of a blade of grass who shakes her head and laughs and flies away.
+
+<br>浩瀚的沙漠在燃烧
+<br>渴望一株青草的爱
+<br>青草却摇摇头，笑着飞走了
+
+----
+
+=== 6 错过
+<img src="/assets/miss-6.jpg"/>
+<br>
+>If you shed tears when you miss the sun, you also miss the stars.
+
+如果为错过太阳而落泪，那也会错过繁星。
+
+----
+
+==== 7 舞动的流水
+<img src="/assets/water-7.jpg"/>
+<br>
+>The sands in your way beg for your song and your movement, dancing water.  Will you carry the burden of their lameness?
+
+<br>舞动的流水啊，你脚下的泥沙乞求你的歌声和舞步。
+<br>你愿意背负这沉重的跛足者吗？
+
+----
+
+=== 8 惆怅
+<img src="/assets/wistful-8.jpg"/>
+<br>
+>Her wistful face haunts my dreams like the rain at night.
+
+她那惆怅的脸庞萦绕在我梦里，如同这夜雨一般。
+
+----
+
+=== 9 梦醒
+<img src="/assets/woke-9.jpg"/>
+<br>
+>Once we dreamt that we were strangers.<br>
+>We wake up to find that we were dear to each other.
+
+<br>曾几何时
+<br>在梦中
+<br>我们彼此陌生
+<br>
+<br>醒来 却发现
+<br>我们早已如此珍爱
+
+<br>注：
+<br>我曾经浑浑噩噩，不知道我是谁，不知道我要什么；
+<br>梦醒了，原来这就是我，我喜欢我，颜色不一样的烟火。
+
+----
+
+=== 10 平复的忧伤
+<img src="/assets/woods-10.jpg"/>
+<br>
+>Sorrow is hushed into peace in my heart like the evening among the silent trees.
+
+忧伤在我心中渐渐平复，就像黄昏融入这寂静的树林。
+
+----
+
+=== 11 微风
+<img src="/assets/breeze-11.jpg"/>
+<br>
+>Some unseen fingers, like idle breeze, are playing upon my heart the music of the ripples.
+
+看不见的手指，宛如悠闲的微风，拨动着我的心弦荡漾。
+
+----
+
+=== 12 语言 
+<img src="/assets/sea-sky-12.jpg"/>
+<br>
+>"What language is thine, O sea?"<br>
+>"The language of eternal question."<br>
+>"What language is thy answer, O sky?<br>
+>"The language of eternal silence."
+
+<br>“哦，大海，你的语言是什么？” 
+<br>“是永恒的疑问。” 
+<br>“哦，天空，你的语言是什么？” 
+<br>“是永恒的沉默。”
+
+---- 
+
+=== 13 倾听
+<img src="/assets/listen-13.jpg"/>
+<br>
+>Listen, my heart, to the whispers of the world with which it makes love to you.
+
+<br>倾听吧，我的心，
+<br>倾听世界对你倾诉的情话。
+
+----
+
+=== 14 黑夜晨雾
+<img src="/assets/night-morning.jpg"/>
+<br>
+>The mystery of creation is like the darkness of night--it is great.  Delusions of knowledge are like the fog of the morning.
+
+<br>译1:
+<br>创造的奥秘犹如黑夜，博大而深邃。  
+<br>认知的妄想犹如晨雾，飘渺而易散。 
+
+<br>译2: 大语言模型 2023
+<br>训练：你的权重像黑夜般深邃。
+<br>推理：你的妄想如晨雾般虚幻。
+
+----
+
+==== 15 仰慕不是爱
+<img src="/assets/high-15.jpg"/>
+<br>
+>Do not seat your love upon a precipice because it is high.
+
+不要因为悬崖的伟岸，就把你的爱寄托与它。
+
+<br>注释：
+<br>地位财富不是爱的唯一标准。仰慕不是爱。
+
+----
+
+=== 16 窗前
+<img src="/assets/window-16.jpg"/>
+<br>
+>I sit at my window this morning where the world like a passer-by stops for a moment, nods to me and goes.
+
+<br>今晨我坐在窗前，世界如过客一般，
+<br>驻足片刻，向我点头，又匆匆离去。
+
+----
+
+=== 17 思绪
+<img src="/assets/leaves-17.jpg"/>
+<br>
+>These little thoughts are the rustle of leaves; they have their whisper of joy in my mind.
+
+这些小小的思绪，如同树叶的窸窣，在我心头低语欢悦。
+
+----
+
+=== 18 影子
+<img src="/assets/shadow-18.jpg"/>
+<br>
+>What you are you do not see, what you see is your shadow.
+
+<br>你无法看见自己，
+<br>看见的只是你的影子。
+
+----
+
+=== 19 让我倾听
+<img src="/assets/pray-19.jpg"/>
+<br>
+>My wishes are fools, they shout across thy songs, my Master.  Let me but listen.
+
+<br>我愚蠢的祈求在你的歌声中大声喧嚣，
+<br>哦，我的主，  
+<br>让我静静地倾听吧。
+
+----
+
+=== 20 选择
+<img src="/assets/pick-20.jpg"/>
+<br>
+>I cannot choose the best.<br>
+>The best chooses me.
+
+<br>我无法选择最好的，
+<br>是最好的选择了我。
+
+----
+
+=== 21 影子
+<img src="/assets/shadow-21.jpg"/>
+<br>
+>They throw their shadows before them who carry their lantern on their back.
+
+把灯笼背在身后的人总是把影子投在他们前方。
+
+----
+
+=== 22 惊奇
+<img src="/assets/life-22.jpg"/>
+<br>
+>That I exist is a perpetual surprise which is life.
+
+我的存在，即生命，是个永恒的惊奇，
+
+----
+
+=== 23 花朵
+<img src="/assets/flower-leaves-23.jpg"/>
+<br>
+>"We, the rustling leaves, have a voice that answers the storms, but who are you so silent?"<br>
+>"I am a mere flower."
+
+<br>“我们这些沙沙作响的落叶，
+<br>有声音可以回答风暴。
+<br>可你是谁？如此沉默”  
+<br>“我只是一朵花。”
+
+----
+
+=== 24 休憩
+<img src="/assets/eyelid-24.jpg"/>
+<br>
+>Rest belongs to the work as the eyelids to the eyes.
+
+休憩之于劳作，犹如眼睑之于眼睛。
+
+----
+
+=== 25 孩子
+<img src="/assets/child-25.jpg"/>
+<br>
+>Man is a born child, his power is the power of growth.
+
+人一直是个孩子，他需要不断地成长。
+
+----
+
+=== 26 回馈
+<img src="/assets/flower-26.jpg"/>
+<br>
+>God expects answers for the flowers he sends us, not for the sun and the earth.
+
+<br>神希望我们回馈他赐予的花朵，
+<br>而非太阳与大地。
+
+
+=== 27 阳光
+<img src="/assets/light-and-kid.jpg"/>
+<br>
+>The light that plays, like a naked child, among the green leaves happily knows not that man can lie.
+
+
+阳光，如同一个纯洁无暇的孩子，在绿叶丛中嬉戏，全然不懂人类的谎言。
+
+
+----
+
+=== 28 找到自己
+<img src="/assets/mirror-28.jpg"/>
+<br>
+>O Beauty, find thyself in love, not in the flattery of thy mirror.
+
+<br>美啊，
+<br>在爱中找到自己吧，
+<br>而不是在镜子的恭维里。
+
+----
+
+=== 29 我的心
+<img src="/assets/beach-29.jpg"/>
+<br>
+>My heart beats her waves at the shore of the world and writes upon it her signature in tears with the words, "I love thee."
+
+<br>我的心如海浪在世界的岸边拍打，
+<br>用泪水写下：“我爱你。”
+
+
+----
+
+诗歌选译：\[[上一篇]({% post_url 2024-06-19-stray-birds001 %})\] \[[下一篇]({% post_url 2024-06-20-stray-birds003 %})\] 
+
+《午后》：\[[上一篇]({% post_url 2024-06-19-stray-birds001 %})\] \[[下一篇]({% post_url 2024-06-20-stray-birds003 %})\] 
