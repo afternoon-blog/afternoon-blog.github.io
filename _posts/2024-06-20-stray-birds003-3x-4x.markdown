@@ -247,6 +247,6 @@ His own mornings are new surprises to God.
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2024-06-19-stray-birds002-x0-1x-2x %})\] \[[下一篇]({% post_url 2024-06-21-stray-birds004 %})\] 
+诗歌选译：\[[上一篇]({% post_url 2024-06-19-stray-birds002-x0-1x-2x %})\] \[[下一篇]({% post_url 2024-06-28-stray-birds009-where %})\] 
 
-《午后》：\[[上一篇]({% post_url 2024-06-19-stray-birds002-x0-1x-2x %})\] \[[下一篇]({% post_url 2024-06-21-stray-birds004 %})\] 
+《午后》：\[[上一篇]({% post_url 2024-06-19-stray-birds002-x0-1x-2x %})\] \[[下一篇]({% post_url 2024-06-28-stray-birds009-where %})\] 

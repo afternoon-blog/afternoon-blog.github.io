@@ -34,4 +34,4 @@ excerpt: ""
 </video>
 
 ----
-《午后》：\[[上一篇]({% post_url 2024-07-01-stray-birds012-weapon %})\] \[[下一篇]({% post_url 2024-08-18-bj1 %})\] 
+《午后》：\[[上一篇]({% post_url 2024-06-28-stray-birds009-where %})\] \[[下一篇]({% post_url 2024-08-18-bj1 %})\] 
