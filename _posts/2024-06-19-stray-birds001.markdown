@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《飞鸟集》选译-1：1.夏鸟秋叶（文字+歌曲）"
+title: "《飞鸟集》：1.夏鸟秋叶（文字+歌曲）"
 date: 2024-06-19
 image: "assets/birds.jpg"
 excerpt: ""

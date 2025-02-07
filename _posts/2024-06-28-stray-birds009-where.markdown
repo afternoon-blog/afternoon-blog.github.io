@@ -54,6 +54,6 @@ excerpt: ""
 
 
 ----
-诗歌选译：\[[上一篇]({% post_url 2024-06-20-stray-birds003-3x-4x %})\] \[[下一篇]({% post_url 2024-09-17-stray-birds-013-moon %})\] 
+诗歌选译：\[[上一篇]({% post_url 2024-06-20-stray-birds003-3x-4x %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] 
 
 《午后》：\[[上一篇]({% post_url 2024-06-20-stray-birds003-3x-4x %})\] \[[下一篇]({% post_url 2024-07-22-cj-movie %})\] 

@@ -317,6 +317,6 @@ Love's pain sang round my life like the unplumbed sea, and love's joy sang like 
 
 ----
 
-诗歌选译：\[[上一篇]({% post_url 2025-01-29-stray-birds034-23x-24x-25x %})\] 
+诗歌选译：\[[上一篇]({% post_url 2025-01-29-stray-birds034-23x-24x-25x %})\] \[[下一篇]({% post_url 2025-02-04-stray-birds036-29x-30x-31x-32x %})\] 
 
-《午后》：\[[上一篇]({% post_url 2025-01-29-stray-birds034-23x-24x-25x %})\] 
+《午后》：\[[上一篇]({% post_url 2025-01-29-stray-birds034-23x-24x-25x %})\] \[[下一篇]({% post_url 2025-02-04-stray-birds036-29x-30x-31x-32x %})\] 
