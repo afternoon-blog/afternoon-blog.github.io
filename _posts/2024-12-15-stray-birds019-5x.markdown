@@ -79,7 +79,7 @@ excerpt: ""
 <br>
 >My day is done, and I am like a boat drawn on the beach, listening to the dance-music of the tide in the evening.
 
-白天的事做完了，我像一只停泊在海滩上的小船，聆听傍晚潮汐的舞曲。
+做完了白天的事，我像一只停泊在海滩上的小船，聆听傍晚潮汐的舞曲。
 
 ---
 
