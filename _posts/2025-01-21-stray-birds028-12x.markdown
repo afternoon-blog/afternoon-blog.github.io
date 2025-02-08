@@ -49,7 +49,7 @@ excerpt: ""
 > "In the moon thou sendest thy love letters to me," said the night to the sun.
 > "I leave my answers in tears upon the grass."
 
-<br>“你把你的情书在月光中递给了我”，夜对太阳说道，  
+<br>“你把你的情书在月光中递给了我”，夜对太阳说道，
 <br>“我把我的回信化作泪水洒落在草地上。”
 
 ----
@@ -78,7 +78,7 @@ excerpt: ""
 > Bees sip honey from flowers and hum their thanks when they leave.<br>
 > The gaudy butterfly is sure that the flowers owe thanks to him.
 
-<br>蜜蜂从花中吮吸蜂蜜，离开时低声吟唱以表谢意。  
+<br>蜜蜂从花中吮吸蜂蜜，离开时低声吟唱以表谢意。
 <br>华丽的蝴蝶却确信是花朵欠他感激。
 
 ----
