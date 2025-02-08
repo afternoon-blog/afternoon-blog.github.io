@@ -86,7 +86,7 @@ excerpt: ""
 ----
 
 
-### 78 燕雀安知鸿鹄之志哉
+### 78 鸿鹄之志
 <img src="/assets/tree.jpg"/>
 <br>
 >The grass seeks her crowd in the earth. The tree seeks his solitude of the sky.

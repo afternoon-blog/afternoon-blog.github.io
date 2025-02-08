@@ -102,7 +102,7 @@ excerpt: ""
 
 ----
 
-### 89 鞘钝剑刃。
+### 89 鞘钝剑刃
 <img src="/assets/scabbard.jpg"/>
 <br>
 >The scabbard is content to be dull when it protects the keenness of the sword.
