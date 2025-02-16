@@ -676,4 +676,4 @@ new Phaser.Game(config);
 
 <br>
 ----
-《午后》：\[[上一篇]({% post_url 2024-09-29-songs %})\] \[[下一篇]({% post_url 2024-12-15-stray-birds019-5x %})\] 
+《午后》：\[[上一篇]({% post_url 2024-08-20-headache %})\] \[[下一篇]({% post_url 2024-12-23-as-wished %})\] 
